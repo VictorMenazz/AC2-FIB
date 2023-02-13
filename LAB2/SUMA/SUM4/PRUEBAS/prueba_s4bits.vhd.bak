@@ -1,0 +1,37 @@
+--
+-- Copyright (c) 2018, UPC
+-- All rights reserved.
+-- 
+
+library ieee;		
+use ieee.std_logic_1164.all;		
+use work.all;		
+		
+entity prueba_S4bits is 		
+a <= "UUUU", "0000" after 200 ns, "UUUU" after 400 ns, "0000" after 600 ns, "UUUU" after 800 ns, "0000" after 1000 ns, "UUUU" after 1200 ns;
+b <= "UUUU", "0000" after 200 ns, "UUUU" after 400 ns, "0100" after 600 ns, "UUUU" after 800 ns, "0100" after 1000 ns, "UUUU" after 1200 ns;
+cen <= ’U’, ’0’ after 200 ns, ’U’ after 400 ns, ’0’ after 600 ns, ’U’ after 800 ns, ’1’ after 1000 ns, ’U’ after 1200 ns;
+end prueba_S4bits;		
+		
+architecture prueba of prueba_S4bits is		
+		
+component S4bits is 		
+generic(ret_xor: time := 15 ns; ret_and: time := 10 ns; ret_or: time := 10 ns);
+port (A: in std_logic_vector(3 downto 0);
+	B: in std_logic_vector(3 downto 0);
+	cen: in	std_logic;
+	SUM: out std_logic_vector(3 downto 0);
+	csal: out std_logic);
+end component;				
+--signals
+signal c1, c2, c3, c4: std_logic;
+
+begin	
+-- instanciacion y estimulos
+	S1bit0: S1bit port map(x=>A(0), y=>B(0), cen=>cen, csal=>c1, s=>SUM(0));
+	S1bit1: S1bit port map(x=>A(1), y=>B(1), cen=>c1, csal=>c2, s=>SUM(1));
+	S1bit2: S1bit port map(x=>A(2), y=>B(2), cen=>c2, csal=>c3, s=>SUM(2));
+	S1bit3: S1bit port map(x=>A(3), y=>B(3), cen=>c3, csal=>c4, s=>SUM(3));
+	csal<=c4;
+end prueba;		
+

@@ -1,0 +1,77 @@
+         ps       /s1bit/x  /s1bit/xorxy                   
+          delta     /s1bit/y  /s1bit/andxy                 
+                    /s1bit/cen  /s1bit/andxorxyz           
+                        /s1bit/s                           
+                       /s1bit/csal                         
+          0  +0          U U U U U     U U     U 
+      50000  +0          0 0 0 U U     U U     U 
+      60000  +0          0 0 0 U U     U 0     0 
+      65000  +0          0 0 0 U U     0 0     0 
+      75000  +0          0 0 0 U 0     0 0     0 
+      80000  +0          0 0 0 0 0     0 0     0 	//0 0 0 - propagacion = 80 - 50 = 30 ns
+     100000  +0          U U U 0 0     0 0     0 
+     110000  +0          U U U 0 0     0 U     0 
+     115000  +0          U U U U 0     U U     0 
+     125000  +0          U U U U U     U U     U 
+     150000  +0          1 0 0 U U     U U     U 
+     160000  +0          1 0 0 U U     U 0     0 
+     165000  +0          1 0 0 U U     1 0     0 
+     175000  +0          1 0 0 U 0     1 0     0 
+     180000  +0          1 0 0 1 0     1 0     0 	//1 0 0 - propagacion = 180 - 150 = 30 ns
+     200000  +0          U U U 1 0     1 0     0 
+     210000  +0          U U U 1 0     1 U     U 
+     215000  +0          U U U U 0     U U     U 
+     225000  +0          U U U U U     U U     U 
+     250000  +0          0 1 0 U U     U U     U 
+     260000  +0          0 1 0 U U     U 0     0 
+     265000  +0          0 1 0 U U     1 0     0 
+     275000  +0          0 1 0 U 0     1 0     0 
+     280000  +0          0 1 0 1 0     1 0     0 	//0 1 0 - propagacion = 280 - 250 = 30 ns
+     300000  +0          U U U 1 0     1 0     0 
+     310000  +0          U U U 1 0     1 U     U 
+     315000  +0          U U U U 0     U U     U 
+     325000  +0          U U U U U     U U     U 
+     350000  +0          1 1 0 U U     U U     U 
+     360000  +0          1 1 0 U U     U 1     0 
+     365000  +0          1 1 0 U U     0 1     0 
+     375000  +0          1 1 0 U 1     0 1     0 
+     380000  +0          1 1 0 0 1     0 1     0 	//1 1 0 - propagacion = 380 - 350 = 30 ns
+     400000  +0          U U U 0 1     0 1     0 
+     410000  +0          U U U 0 1     0 U     0 
+     415000  +0          U U U U 1     U U     0 
+     425000  +0          U U U U U     U U     U 
+     450000  +0          0 0 1 U U     U U     U 	
+     460000  +0          0 0 1 U U     U 0     U 
+     465000  +0          0 0 1 U U     0 0     U 
+     475000  +0          0 0 1 U U     0 0     0 
+     480000  +0          0 0 1 1 U     0 0     0 
+     490000  +0          0 0 1 1 0     0 0     0 	//0 0 1 - propagacion = 490 - 450 = 40 ns
+     500000  +0          U U U 1 0     0 0     0 
+     510000  +0          U U U 1 0     0 U     0 
+     515000  +0          U U U U 0     U U     0 
+     525000  +0          U U U U U     U U     U 
+     550000  +0          1 0 1 U U     U U     U 
+     560000  +0          1 0 1 U U     U 0     U 
+     565000  +0          1 0 1 U U     1 0     U 
+     575000  +0          1 0 1 U U     1 0     1 
+     580000  +0          1 0 1 0 U     1 0     1 
+     590000  +0          1 0 1 0 1     1 0     1 	//1 0 1 - propagacion = 590 - 550 = 40 ns
+     600000  +0          U U U 0 1     1 0     1 
+     610000  +0          U U U 0 1     1 U     U 
+     615000  +0          U U U U 1     U U     U 
+     625000  +0          U U U U U     U U     U 
+     650000  +0          0 1 1 U U     U U     U 	//CALCULO DEL RETARDO
+     660000  +0          0 1 1 U U     U 0     U 	//Retardo andxy +10ns
+     665000  +0          0 1 1 U U     1 0     U 	//Retardo xorxy +15ns
+     675000  +0          0 1 1 U U     1 0     1 	//
+     680000  +0          0 1 1 0 U     1 0     1 	//Retardo or de csal +15ns
+     690000  +0          0 1 1 0 1     1 0     1 	//0 1 1 - propagacion = 690 - 650 = 40 ns
+     700000  +0          U U U 0 1     1 0     1 
+     710000  +0          U U U 0 1     1 U     U 
+     715000  +0          U U U U 1     U U     U 
+     725000  +0          U U U U U     U U     U 
+     750000  +0          1 1 1 U U     U U     U 		
+     760000  +0          1 1 1 U U     U 1     U 
+     765000  +0          1 1 1 U U     0 1     U 
+     775000  +0          1 1 1 U 1     0 1     0 
+     780000  +0          1 1 1 1 1     0 1     0 	//1 1 1 - propagacion = 780 - 750 = 30 ns

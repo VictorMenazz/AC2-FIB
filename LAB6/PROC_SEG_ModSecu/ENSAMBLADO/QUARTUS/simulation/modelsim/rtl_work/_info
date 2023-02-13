@@ -1,0 +1,4888 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/simulation/modelsim
+Eacceso_md
+Z1 w1534675090
+Z2 DPx4 work 17 retardos_even_pkg 0 22 >0fRA@5_4S=N]ANjc@@fN3
+Z3 DPx4 work 25 cte_tipos_deco_camino_pkg 0 22 h2gDIY<;0M4GQEZ8JLU[;1
+Z4 DPx4 work 17 param_disenyo_pkg 0 22 dQO[:VbkRS]1;1_96^i:H0
+Z5 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 d/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/simulation/modelsim
+Z9 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ACCESO/CODIGO/acceso_MD.vhd
+Z10 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ACCESO/CODIGO/acceso_MD.vhd
+l0
+L15
+VhQ:SI;ao;D?F4]oP:LMW]3
+Z11 OV;C;10.1d;51
+31
+Z12 !s108 1672705319.174509
+Z13 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ACCESO/CODIGO/acceso_MD.vhd|
+Z14 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ACCESO/CODIGO/acceso_MD.vhd|
+Z15 o-93 -work work -O0
+Z16 tExplicit 1
+!s100 izhJEO6@zbjUE7^K8V7:c2
+!i10b 1
+Acomport
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 acceso_md 0 22 hQ:SI;ao;D?F4]oP:LMW]3
+l53
+L22
+VQ7go[:McP;Wo^K^FAXWCM3
+R11
+31
+R12
+R13
+R14
+R15
+R16
+!s100 F6ZYd3>gE[k[3YE?cPVXd2
+!i10b 1
+Eacceso_mi
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z17 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/acceso_MI/CODIGO/acceso_MI.vhd
+Z18 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/acceso_MI/CODIGO/acceso_MI.vhd
+l0
+L15
+VY74T?4cL>RCQzA9=>nm`E0
+R11
+31
+Z19 !s108 1672705319.133604
+Z20 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/acceso_MI/CODIGO/acceso_MI.vhd|
+Z21 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/acceso_MI/CODIGO/acceso_MI.vhd|
+R15
+R16
+!s100 f@Y;W7E_zb;C2O3dJ2LoQ3
+!i10b 1
+Acomport
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 acceso_mi 0 22 Y74T?4cL>RCQzA9=>nm`E0
+l38
+L21
+VS5bBg06>?X<l4OHBJ?B:20
+R11
+31
+R19
+R20
+R21
+R15
+R16
+!s100 NXCnMRbSiLiXgN]AGXB;L2
+!i10b 1
+Ealinear
+R1
+R3
+Z22 DPx4 work 18 componentes_md_pkg 0 22 L`P8A@J@OGRm:j[DdK2I60
+Z23 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+Z24 DPx4 work 25 tipos_constan_memoria_pkg 0 22 g7hGX<m?PiFf9Z0C2zMPJ1
+R4
+R5
+R6
+R7
+R8
+Z25 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/ALINEAR/CODIGO/alinear.vhd
+Z26 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/ALINEAR/CODIGO/alinear.vhd
+l0
+L14
+VS]K:o^nVW3e<hlc78foQ62
+R11
+31
+Z27 !s108 1672705321.430184
+Z28 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/ALINEAR/CODIGO/alinear.vhd|
+Z29 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/ALINEAR/CODIGO/alinear.vhd|
+R15
+R16
+!s100 cl^]7d;RSL4P[=DkY90833
+!i10b 1
+Aestructural
+R3
+R22
+R23
+R24
+R4
+R5
+R6
+R7
+DEx4 work 7 alinear 0 22 S]K:o^nVW3e<hlc78foQ62
+l35
+L20
+V[3N_JigXV2KGLWC>PZ6:_2
+R11
+31
+R27
+R28
+R29
+R15
+R16
+!s100 e]_gbMTHZ8@jAEUc_P1D62
+!i10b 1
+Ealineare
+R1
+R3
+R22
+R24
+R4
+R23
+R5
+R6
+R7
+R8
+Z30 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/ALINEARE/CODIGO/alinearE.vhd
+Z31 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/ALINEARE/CODIGO/alinearE.vhd
+l0
+L15
+V`DE>[1hLdeW2kXZF`IL3G0
+R11
+31
+Z32 !s108 1672705321.269647
+Z33 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/ALINEARE/CODIGO/alinearE.vhd|
+Z34 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/ALINEARE/CODIGO/alinearE.vhd|
+R15
+R16
+!s100 :U>>8;n5gkg45m19NBXL@1
+!i10b 1
+Aestructura
+R3
+R22
+R24
+R4
+R23
+R5
+R6
+R7
+DEx4 work 8 alineare 0 22 `DE>[1hLdeW2kXZF`IL3G0
+l47
+L21
+V_;bfX<AhE3;3jZJo:Z6M42
+R11
+31
+R32
+R33
+R34
+R15
+R16
+!s100 iH@gN;9MBD91dYWejEOb00
+!i10b 1
+Ealu
+R1
+Z35 DPx4 work 12 retardos_pkg 0 22 fETc?bEQY_h3MOmQ85?^_0
+Z36 DPx4 work 22 riscv32_coop_funct_pkg 0 22 ;5Xo@eC]DBCLkHZ^SI_gG3
+Z37 DPx4 work 16 cte_tipos_uf_pkg 0 22 kdDRDaT`aV2L?W5`5:=Ef2
+R4
+R3
+R5
+R6
+R7
+R8
+Z38 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd
+Z39 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd
+l0
+L15
+VOBL4fU^[4YH4adaCLTbk40
+R11
+31
+Z40 !s108 1672705320.108708
+Z41 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd|
+Z42 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd|
+R15
+R16
+!s100 `OWQ0EiOgf7XKNIkQL[B02
+!i10b 1
+Acompor
+R35
+R36
+R37
+R4
+R3
+R5
+R6
+R7
+DEx4 work 3 alu 0 22 OBL4fU^[4YH4adaCLTbk40
+l24
+L22
+VEmiC:n0kChO_S8kOb:oeJ0
+R11
+31
+R40
+R41
+R42
+R15
+R16
+!s100 _8e9OP[_EEbg204gO0g0n1
+!i10b 1
+Ebr
+Z43 w1553361165
+R35
+R4
+R5
+R6
+R7
+R8
+Z44 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/BR.vhd
+Z45 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/BR.vhd
+l0
+L13
+VEz>I>GA1Ni836DeFSzLM41
+R11
+31
+Z46 !s108 1672705318.707496
+Z47 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/BR.vhd|
+Z48 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/BR.vhd|
+R15
+R16
+!s100 56VZ[g=AFb3OG:Kn_IGSa3
+!i10b 1
+Acompor
+R35
+R4
+R5
+R6
+R7
+DEx4 work 2 br 0 22 Ez>I>GA1Ni836DeFSzLM41
+l31
+L24
+V]lmSLIgeYD[f>VXSYKK9L2
+R11
+31
+R46
+R47
+R48
+R15
+R16
+!s100 <=LVWgf@RnN1GY:Gh<0XF2
+!i10b 1
+Ecmp
+R1
+R4
+R6
+R7
+R8
+Z49 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/COMPARADOR/CODIGO/cmp.vhd
+Z50 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/COMPARADOR/CODIGO/cmp.vhd
+l0
+L11
+VW1j9SkEkPfUhDc[IMKoC92
+R11
+31
+Z51 !s108 1672705319.232779
+Z52 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/COMPARADOR/CODIGO/cmp.vhd|
+Z53 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/COMPARADOR/CODIGO/cmp.vhd|
+R15
+R16
+!s100 `Fm;]mOBG9cT1lgNbzGg<3
+!i10b 1
+Acompor
+R4
+R6
+R7
+DEx4 work 3 cmp 0 22 W1j9SkEkPfUhDc[IMKoC92
+l20
+L17
+V?2f8K@M`L^]]@:cS`zaIM0
+R11
+31
+R51
+R52
+R53
+R15
+R16
+!s100 bhQzElo7]Xz1Z`TYOUn1H3
+!i10b 1
+Pcomponentes_cam_datos_pkg
+R5
+R3
+R4
+R6
+R7
+w1553157332
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/componentes_cam_datos_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/componentes_cam_datos_pkg.vhd
+l0
+L12
+VgIOHzVU^<5Q=Agj28fWBB2
+R11
+31
+R15
+R16
+!s100 R^CB<Ed[XKkY5c9XhgnfH2
+!i10b 1
+!s108 1672705317.935551
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/componentes_cam_datos_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/componentes_cam_datos_pkg.vhd|
+Pcomponentes_control_seg_c_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/componentes_cntl_seg_pkg/componentes_control_seg_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/componentes_cntl_seg_pkg/componentes_control_seg_C_pkg.vhd
+l0
+L12
+V5I>dinB`YcCHTJl>PXK<i0
+R11
+31
+R15
+R16
+!s100 42PlfI7b32jPXjQg9I7@C2
+!i10b 1
+!s108 1672705318.241423
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/componentes_cntl_seg_pkg/componentes_control_seg_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/componentes_cntl_seg_pkg/componentes_control_seg_C_pkg.vhd|
+Pcomponentes_control_seg_pkg
+R5
+R3
+R4
+R6
+R7
+w1554892264
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/componentes_cntl_seg_pkg/componentes_control_seg_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/componentes_cntl_seg_pkg/componentes_control_seg_pkg.vhd
+l0
+L12
+VoS>;6AnRn[<2<;R[gUleI2
+R11
+31
+R15
+R16
+!s100 UIRDnXnbHaBYdjhkI6X^n2
+!i10b 1
+!s108 1672705318.210795
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/componentes_cntl_seg_pkg/componentes_control_seg_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/componentes_cntl_seg_pkg/componentes_control_seg_pkg.vhd|
+Pcomponentes_cortos_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/componentes_cortos_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/componentes_cortos_pkg.vhd
+l0
+L12
+VbK[;AI0mV[?2;;dKYZjoM0
+R11
+31
+R15
+R16
+!s100 zjPKT7R8AhVZ;[F=XAEh71
+!i10b 1
+!s108 1672705318.302394
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/componentes_cortos_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/componentes_cortos_pkg.vhd|
+Pcomponentes_decodificador_modsecu_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_ModSecu_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_ModSecu_pkg.vhd
+l0
+L12
+VhzJUTzXX1d5_dP][2bIZc3
+R11
+31
+R15
+R16
+!s100 PbRzR=0EbczdcAFZ<c3M52
+!i10b 1
+!s108 1672705318.049636
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_ModSecu_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_ModSecu_pkg.vhd|
+Pcomponentes_decodificador_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_pkg.vhd
+l0
+L12
+V[b>i8f1:Q2PHKdXYDcRzC0
+R11
+31
+R15
+R16
+!s100 eS_nj5jeNl]S?UAJ:[iEG3
+!i10b 1
+!s108 1672705318.018915
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/componentes_decodificador_pkg.vhd|
+Pcomponentes_md_pkg
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+w1553266166
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/componentes_MD_pkg/componentes_MD_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/componentes_MD_pkg/componentes_MD_pkg.vhd
+l0
+L13
+VL`P8A@J@OGRm:j[DdK2I60
+R11
+31
+R15
+R16
+!s100 564a1HzXjW2@?:L:=EB2B0
+!i10b 1
+!s108 1672705319.315345
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/componentes_MD_pkg/componentes_MD_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/componentes_MD_pkg/componentes_MD_pkg.vhd|
+Pcomponentes_secuenciamiento_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/componentes_secuenciamiento_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/componentes_secuenciamiento_pkg.vhd
+l0
+L12
+VRW`AlG@RNn:D@]g1zZVfc3
+R11
+31
+R15
+R16
+!s100 f7XVH=T<:RfcJBaI`_bFg0
+!i10b 1
+!s108 1672705317.754709
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/componentes_secuenciamiento_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/componentes_secuenciamiento_pkg.vhd|
+Ecortos
+R1
+R3
+Z54 DPx4 work 25 componentes_cam_datos_pkg 0 22 gIOHzVU^<5Q=Agj28fWBB2
+R4
+R5
+R6
+R7
+R8
+Z55 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/cortos.vhd
+Z56 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/cortos.vhd
+l0
+L14
+VFV>AS_^ZCHMh`1XDWn`OP2
+R11
+31
+Z57 !s108 1672705319.932555
+Z58 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/cortos.vhd|
+Z59 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/cortos.vhd|
+R15
+R16
+!s100 3oDNn_[K5mAf=jHNbJoH50
+!i10b 1
+Aestructural
+R3
+R54
+R4
+R5
+R6
+R7
+DEx4 work 6 cortos 0 22 FV>AS_^ZCHMh`1XDWn`OP2
+l24
+L20
+Va0UzTMTEG=lfMCkc]=zOG2
+R11
+31
+R57
+R58
+R59
+R15
+R16
+!s100 0H`PP5k9>;WM`ediZUzkW1
+!i10b 1
+Pcte_tipos_deco_camino_modsecu_pkg
+R3
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/tipos_constantes_pkg/cte_tipos_deco_camino_ModSecu_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/tipos_constantes_pkg/cte_tipos_deco_camino_ModSecu_pkg.vhd
+l0
+L11
+VZN@laOAVQKV5T0E[G<Ze71
+R11
+31
+R15
+R16
+!s100 noQZ9IiXD7z7;KZ^b0n7H3
+!i10b 1
+!s108 1672705318.178178
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/tipos_constantes_pkg/cte_tipos_deco_camino_ModSecu_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/tipos_constantes_pkg/cte_tipos_deco_camino_ModSecu_pkg.vhd|
+Pcte_tipos_deco_camino_pkg
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd
+l0
+L10
+Vh2gDIY<;0M4GQEZ8JLU[;1
+R11
+31
+R15
+R16
+!s100 LWMoGeUhi@F]=k277M<360
+!i10b 1
+!s108 1672705317.654013
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd|
+Pcte_tipos_uf_pkg
+R36
+R5
+R3
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd
+l0
+L12
+VkdDRDaT`aV2L?W5`5:=Ef2
+R11
+31
+R15
+R16
+!s100 P^M^710HLOX12LT2A3=fj0
+!i10b 1
+!s108 1672705318.146522
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd|
+Ecuatro
+R1
+R4
+R5
+R6
+R7
+R8
+Z60 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/CUATRO/CODIGO/cuatro.vhd
+Z61 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/CUATRO/CODIGO/cuatro.vhd
+l0
+L12
+V:1hH]_f5FbJTh8VlazCYj3
+R11
+31
+Z62 !s108 1672705318.946402
+Z63 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/CUATRO/CODIGO/cuatro.vhd|
+Z64 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/CUATRO/CODIGO/cuatro.vhd|
+R15
+R16
+!s100 CGXiKY<0;0>gbcaTc@cfT1
+!i10b 1
+Acomportamiento
+R4
+R5
+R6
+R7
+DEx4 work 6 cuatro 0 22 :1hH]_f5FbJTh8VlazCYj3
+l17
+L16
+Vgi@<gl`D8Tgo4=YZz[:A22
+R11
+31
+R62
+R63
+R64
+R15
+R16
+!s100 leWFNIGMo5?HkMYVK=:Jj1
+!i10b 1
+Edeco_excep
+R1
+R36
+R3
+R4
+R5
+R6
+R7
+R8
+Z65 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/deco_excep.vhd
+Z66 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/deco_excep.vhd
+l0
+L14
+V8c^<D2=YocnPRlEBcKgbN1
+R11
+31
+Z67 !s108 1672705318.519544
+Z68 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/deco_excep.vhd|
+Z69 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/deco_excep.vhd|
+R15
+R16
+!s100 jT46^_<mnY6YLQ98VZ[A53
+!i10b 1
+Acomportamiento
+R36
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 deco_excep 0 22 8c^<D2=YocnPRlEBcKgbN1
+l21
+L19
+VRS8[RVH?eI9UZcM@XkDAF2
+R11
+31
+R67
+R68
+R69
+R15
+R16
+!s100 4[I9U[cVHF3Mca;HdP>S41
+!i10b 1
+Pdeco_inst_impri_pkg
+Z70 DPx4 work 23 imprimir_inst_ascii_pkg 0 22 `mnm`nmK9DUZOBh9dE?]J0
+R4
+R36
+Z71 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R5
+R6
+R7
+R1
+R8
+Z72 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_instruc_pkg/deco_Inst_impri_pkg.vhd
+Z73 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_instruc_pkg/deco_Inst_impri_pkg.vhd
+l0
+L18
+V0R2:FZQF]kF48a5O4@TaC3
+R11
+31
+b1
+Z74 !s108 1672705321.589657
+Z75 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_instruc_pkg/deco_Inst_impri_pkg.vhd|
+Z76 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_instruc_pkg/deco_Inst_impri_pkg.vhd|
+R15
+R16
+!s100 33HKLV_0llC2A`H6GJC651
+!i10b 1
+Bbody
+Z77 DPx4 work 19 deco_inst_impri_pkg 0 22 0R2:FZQF]kF48a5O4@TaC3
+R70
+R4
+R36
+R71
+R5
+R6
+R7
+l0
+L25
+VJ:jdoRa]72=W156=gGeFZ3
+R11
+31
+R74
+R75
+R76
+R15
+R16
+nbody
+!s100 4hh6NkLJ`=<7DSQQ0]WkE0
+!i10b 1
+Edecocamino_modsecu
+R1
+R36
+Z78 DPx4 work 33 cte_tipos_deco_camino_modsecu_pkg 0 22 ZN@laOAVQKV5T0E[G<Ze71
+R3
+R5
+R6
+R7
+R8
+Z79 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decocamino_ModSecu.vhd
+Z80 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decocamino_ModSecu.vhd
+l0
+L15
+VF97BjUZk?1Zf::LHbWDB=2
+R11
+31
+Z81 !s108 1672705319.712269
+Z82 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decocamino_ModSecu.vhd|
+Z83 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decocamino_ModSecu.vhd|
+R15
+R16
+!s100 aBPzX2A?NVloC8]LcPOG63
+!i10b 1
+Acomportamiento
+R36
+R78
+R3
+R5
+R6
+R7
+DEx4 work 18 decocamino_modsecu 0 22 F97BjUZk?1Zf::LHbWDB=2
+l40
+L26
+VNGcCFkz^k]z<28D;04k7M3
+R11
+31
+R81
+R82
+R83
+R15
+R16
+!s100 Gl:B73@`EmfM21>d]ad7_3
+!i10b 1
+Edecodificador_modsecu
+R1
+Z84 DPx4 work 37 componentes_decodificador_modsecu_pkg 0 22 hzJUTzXX1d5_dP][2bIZc3
+Z85 DPx4 work 29 componentes_decodificador_pkg 0 22 [b>i8f1:Q2PHKdXYDcRzC0
+R35
+R4
+R3
+R5
+R6
+R7
+R8
+Z86 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decodificador_ModSecu.vhd
+Z87 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decodificador_ModSecu.vhd
+l0
+L16
+V=Nn1TDV=_=gbAAVJTifha0
+R11
+31
+Z88 !s108 1672705319.678239
+Z89 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decodificador_ModSecu.vhd|
+Z90 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decodificador_ModSecu.vhd|
+R15
+R16
+!s100 R8O>UX:BJUTj3[Z@[`3DW2
+!i10b 1
+Aestructural
+R84
+R85
+R35
+R4
+R3
+R5
+R6
+R7
+DEx4 work 21 decodificador_modsecu 0 22 =Nn1TDV=_=gbAAVJTifha0
+l46
+L31
+VNAbnEJRT;8e2Wh6bbWhbg1
+R11
+31
+R88
+R89
+R90
+R15
+R16
+!s100 lbi81Yz@keTd6X5m^3QJQ0
+!i10b 1
+Edecoopalu
+R1
+R4
+R36
+R3
+R5
+R6
+R7
+R8
+Z91 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopALU.vhd
+Z92 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopALU.vhd
+l0
+L15
+V^5UdNihd8ZnMPnbE6gzUX3
+R11
+31
+Z93 !s108 1672705318.454002
+Z94 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopALU.vhd|
+Z95 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopALU.vhd|
+R15
+R16
+!s100 [IZ2H`CU01eaG2zzzAV4Z0
+!i10b 1
+Acomportamiento
+R4
+R36
+R3
+R5
+R6
+R7
+DEx4 work 9 decoopalu 0 22 ^5UdNihd8ZnMPnbE6gzUX3
+l28
+L20
+VA;cJe>3G9Cb:o?K?BVaNQ0
+R11
+31
+R93
+R94
+R95
+R15
+R16
+!s100 YPAa997zbE36lSlMSEVP32
+!i10b 1
+Edecoopmd
+R1
+R4
+R36
+R3
+R5
+R6
+R7
+R8
+Z96 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopMD.vhd
+Z97 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopMD.vhd
+l0
+L15
+VY_h2BnmRmEFWJZF6FLB]K1
+R11
+31
+Z98 !s108 1672705318.486144
+Z99 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopMD.vhd|
+Z100 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopMD.vhd|
+R15
+R16
+!s100 XI<KdChCYIRLBR89AnPg00
+!i10b 1
+Acomportamiento
+R4
+R36
+R3
+R5
+R6
+R7
+DEx4 work 8 decoopmd 0 22 Y_h2BnmRmEFWJZF6FLB]K1
+l28
+L20
+V4Y_F`JR;V<?cNAj2O@h^]2
+R11
+31
+R98
+R99
+R100
+R15
+R16
+!s100 nDd3o<?[Az?`O^AQa9^<>1
+!i10b 1
+Edecoopsec
+R1
+R4
+R37
+R36
+R3
+R5
+R6
+R7
+R8
+Z101 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopSEC.vhd
+Z102 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopSEC.vhd
+l0
+L16
+VE8MIG5fF1ClZ`ZN<8Y3Gj2
+R11
+31
+Z103 !s108 1672705319.745438
+Z104 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopSEC.vhd|
+Z105 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/decoopSEC.vhd|
+R15
+R16
+!s100 EY<_<^[Di2h<Si>aY7KP[0
+!i10b 1
+Acomportamiento
+R4
+R37
+R36
+R3
+R5
+R6
+R7
+DEx4 work 9 decoopsec 0 22 E8MIG5fF1ClZ`ZN<8Y3Gj2
+l29
+L21
+VFGSY918e5Lo=nKA=jdhfX0
+R11
+31
+R103
+R104
+R105
+R15
+R16
+!s100 Rf;XOdbU_KjY2=biPh]8=1
+!i10b 1
+Edecopbropsec
+R1
+R4
+R37
+R36
+R3
+R5
+R6
+R7
+R8
+Z106 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/decoPBRopSEC.vhd
+Z107 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/decoPBRopSEC.vhd
+l0
+L15
+VEWlgcL6P2k8Pm8ATgdnH>3
+R11
+31
+Z108 !s108 1672705320.672400
+Z109 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/decoPBRopSEC.vhd|
+Z110 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/decoPBRopSEC.vhd|
+R15
+R16
+!s100 R^L?WPg:@DIJm^@NocW[Y0
+!i10b 1
+Acomportamiento
+R4
+R37
+R36
+R3
+R5
+R6
+R7
+DEx4 work 12 decopbropsec 0 22 EWlgcL6P2k8Pm8ATgdnH>3
+l29
+L21
+Vl_;SPdQ43@0QU<6f6Xc[J3
+R11
+31
+R108
+R109
+R110
+R15
+R16
+!s100 PmYB=2Z;5hAS:=X]<oaGH2
+!i10b 1
+Edecs
+R1
+R35
+R3
+R37
+R36
+R5
+R6
+R7
+R8
+Z111 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/DECS.vhd
+Z112 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/DECS.vhd
+l0
+L15
+V;2gHVL:co2BHL4B:MX08c2
+R11
+31
+Z113 !s108 1672705320.223395
+Z114 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/DECS.vhd|
+Z115 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/DECS.vhd|
+R15
+R16
+!s100 TcX8LO72GT8WWX]f2Jd>01
+!i10b 1
+Acomporta
+R35
+R3
+R37
+R36
+R5
+R6
+R7
+DEx4 work 4 decs 0 22 ;2gHVL:co2BHL4B:MX08c2
+l22
+L21
+VTcT69TUEoo=O50Td@_i9W1
+R11
+31
+R113
+R114
+R115
+R15
+R16
+!s100 0<bjmTMR1?Jbh1HH>[BN;0
+!i10b 1
+Eensam_rd_c
+R1
+Z116 DPx4 work 21 retardos_cntl_seg_pkg 0 22 kbaJG1dD7;BKICTb9]CN<2
+Z117 DPx4 work 29 componentes_control_seg_c_pkg 0 22 5I>dinB`YcCHTJl>PXK<i0
+Z118 DPx4 work 27 componentes_control_seg_pkg 0 22 oS>;6AnRn[<2<;R[gUleI2
+R5
+R3
+R4
+R6
+R7
+R8
+Z119 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/ENSAM_RD/CODIGO/ensam_RD_C.vhd
+Z120 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/ENSAM_RD/CODIGO/ensam_RD_C.vhd
+l0
+L15
+V3dL0QzJ@aHmXVOBJHBP>_3
+R11
+31
+Z121 !s108 1672705320.717424
+Z122 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/ENSAM_RD/CODIGO/ensam_RD_C.vhd|
+Z123 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/ENSAM_RD/CODIGO/ensam_RD_C.vhd|
+R15
+R16
+!s100 <dHc`>Idzi8ULPF4k1i?13
+!i10b 1
+Aestructural
+R116
+R117
+R118
+R5
+R3
+R4
+R6
+R7
+DEx4 work 10 ensam_rd_c 0 22 3dL0QzJ@aHmXVOBJHBP>_3
+l41
+L25
+VYg?6Y<_P973;8bSW`P0Ic2
+R11
+31
+R121
+R122
+R123
+R15
+R16
+!s100 fCQ8l4Yo1j]j47^JOYS1B1
+!i10b 1
+Eensam_rs
+R1
+R116
+R118
+R5
+R3
+R4
+R6
+R7
+R8
+Z124 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/ENSAM_RS/CODIGO/ensam_RS.vhd
+Z125 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/ENSAM_RS/CODIGO/ensam_RS.vhd
+l0
+L15
+VNDed>AXW;6OAJYJaD5Y<g2
+R11
+31
+Z126 !s108 1672705320.884209
+Z127 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/ENSAM_RS/CODIGO/ensam_RS.vhd|
+Z128 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/ENSAM_RS/CODIGO/ensam_RS.vhd|
+R15
+R16
+!s100 ?V83SRDBb:IX76z1Af5D>2
+!i10b 1
+Aestructural
+R116
+R118
+R5
+R3
+R4
+R6
+R7
+DEx4 work 8 ensam_rs 0 22 NDed>AXW;6OAJYJaD5Y<g2
+l24
+L22
+V9Hd?lOX8Fnd2AV=30z52e0
+R11
+31
+R126
+R127
+R128
+R15
+R16
+!s100 BWE4VDH:T1QRABP6mkl=72
+!i10b 1
+Eeval
+R1
+R35
+R36
+R3
+R37
+R4
+R5
+R6
+R7
+R8
+Z129 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/EVALUACION/CODIGO/eval.vhd
+Z130 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/EVALUACION/CODIGO/eval.vhd
+l0
+L14
+VdVe`oTNMT;bzM=@j914kn0
+R11
+31
+Z131 !s108 1672705320.413450
+Z132 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/EVALUACION/CODIGO/eval.vhd|
+Z133 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/EVALUACION/CODIGO/eval.vhd|
+R15
+R16
+!s100 C7YODhjPjzC_GQag32?ho0
+!i10b 1
+Acomport
+R35
+R36
+R3
+R37
+R4
+R5
+R6
+R7
+DEx4 work 4 eval 0 22 dVe`oTNMT;bzM=@j914kn0
+l20
+L19
+VXH38e@2Bb0PJfhaVH7P<h3
+R11
+31
+R131
+R132
+R133
+R15
+R16
+!s100 d2n6h6RgTo=9?FkBgd_<U3
+!i10b 1
+Efmtd
+R1
+R35
+R5
+R3
+R4
+R6
+R7
+R8
+Z134 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/FMTD.vhd
+Z135 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/FMTD.vhd
+l0
+L13
+VeFZS]8l[]Ya8AH8N<U;=C3
+R11
+31
+Z136 !s108 1672705318.582777
+Z137 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/FMTD.vhd|
+Z138 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/FMTD.vhd|
+R15
+R16
+!s100 T_m9jfliiQXRaRcRgIJUS0
+!i10b 1
+Acompor
+R35
+R5
+R3
+R4
+R6
+R7
+DEx4 work 4 fmtd 0 22 eFZS]8l[]Ya8AH8N<U;=C3
+l20
+L19
+VVUf@Q@A]giXHU1H7KfL8L0
+R11
+31
+R136
+R137
+R138
+R15
+R16
+!s100 _YoQ`M<mzm>VN<8QIRGFS3
+!i10b 1
+Efmte
+R1
+R22
+R35
+R4
+R23
+R24
+R3
+R5
+R6
+R7
+R8
+Z139 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/FMTE.vhd
+Z140 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/FMTE.vhd
+l0
+L15
+VW6gGGLcYi_^kIZ:aF8VFW3
+R11
+31
+Z141 !s108 1672705321.231654
+Z142 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/FMTE.vhd|
+Z143 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/FMTE.vhd|
+R15
+R16
+!s100 EF`MIMD2_VfNEf:4E5F>N3
+!i10b 1
+Aestructural
+R22
+R35
+R4
+R23
+R24
+R3
+R5
+R6
+R7
+DEx4 work 4 fmte 0 22 W6gGGLcYi_^kIZ:aF8VFW3
+l28
+L23
+VVnFV3E71LIBh^P;nRHW_b2
+R11
+31
+R141
+R142
+R143
+R15
+R16
+!s100 kdN0C9BL0SIX2lfMa;cl@0
+!i10b 1
+Efmtl
+Z144 w1539962055
+R22
+R35
+R4
+R23
+R24
+R5
+R3
+R6
+R7
+R8
+Z145 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/FMTL.vhd
+Z146 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/FMTL.vhd
+l0
+L10
+V4izWzMhCMHTdP15Gj8W@[1
+R11
+31
+Z147 !s108 1672705321.392102
+Z148 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/FMTL.vhd|
+Z149 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/FMTL.vhd|
+R15
+R16
+!s100 m_=b:L6fVWC5O:?2S=A[50
+!i10b 1
+Aestructural
+R22
+R35
+R4
+R23
+R24
+R5
+R3
+R6
+R7
+DEx4 work 4 fmtl 0 22 4izWzMhCMHTdP15Gj8W@[1
+l24
+L17
+VdcQGN<72o914TY_e4zega2
+R11
+31
+R147
+R148
+R149
+R15
+R16
+!s100 U]0nHT2aCXC2EW3`@iAC53
+!i10b 1
+Efmtl_extsig
+Z150 w1539962012
+R22
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+R8
+Z151 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/EXTSIG/CODIGO/FMTL_extsig.vhd
+Z152 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/EXTSIG/CODIGO/FMTL_extsig.vhd
+l0
+L14
+VOJ<B5DfzWG:k4>AQnl]]X1
+R11
+31
+Z153 !s108 1672705321.474132
+Z154 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/EXTSIG/CODIGO/FMTL_extsig.vhd|
+Z155 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/EXTSIG/CODIGO/FMTL_extsig.vhd|
+R15
+R16
+!s100 cPZ6jznTe[>O_YV8RR>e=1
+!i10b 1
+Aestructural
+R22
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+DEx4 work 11 fmtl_extsig 0 22 OJ<B5DfzWG:k4>AQnl]]X1
+l25
+L21
+VPVFOY<bLWlSQF8kE_`@GC0
+R11
+31
+R153
+R154
+R155
+R15
+R16
+!s100 <F^CcNj>[0?ag[gJ?hiiP3
+!i10b 1
+Efmtl_sel_signo
+R1
+R3
+R4
+R23
+R24
+R5
+R6
+R7
+R8
+Z156 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/SEL_SIGNO/CODIGO/FMTL_sel_signo.vhd
+Z157 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/SEL_SIGNO/CODIGO/FMTL_sel_signo.vhd
+l0
+L13
+VINYlkZEbzWUI`bdPBM^W61
+R11
+31
+Z158 !s108 1672705320.552104
+Z159 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/SEL_SIGNO/CODIGO/FMTL_sel_signo.vhd|
+Z160 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTL/COMPONENTES/SEL_SIGNO/CODIGO/FMTL_sel_signo.vhd|
+R15
+R16
+!s100 `S0TFoUXU=@zfFV?bA[o83
+!i10b 1
+Acomportamiento
+R3
+R4
+R23
+R24
+R5
+R6
+R7
+DEx4 work 14 fmtl_sel_signo 0 22 INYlkZEbzWUI`bdPBM^W61
+l22
+L20
+V^A=k_IJI=g74k8ge:Ic1]1
+R11
+31
+R158
+R159
+R160
+R15
+R16
+!s100 Oi`4BPkkd7PhbTS1WXdC<0
+!i10b 1
+Efmts
+R1
+R35
+R5
+R3
+R4
+R6
+R7
+R8
+Z161 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/FMTS.vhd
+Z162 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/FMTS.vhd
+l0
+L13
+VN1j71J<_Dg?0`3:B[eB:01
+R11
+31
+Z163 !s108 1672705319.014840
+Z164 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/FMTS.vhd|
+Z165 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/FMTS.vhd|
+R15
+R16
+!s100 S]a?4[Z@oooz7lKC41TAh0
+!i10b 1
+Acompor
+R35
+R5
+R3
+R4
+R6
+R7
+DEx4 work 4 fmts 0 22 N1j71J<_Dg?0`3:B[eB:01
+l20
+L19
+VoUeFc1UNK4;;N_K?GNUaG0
+R11
+31
+R163
+R164
+R165
+R15
+R16
+!s100 1DVj7;MTT4iXg<@P5L0AV0
+!i10b 1
+Pimpri_br_pkg
+R4
+R71
+R23
+R5
+R6
+R7
+R1
+R8
+Z166 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_BR_pkg.vhd
+Z167 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_BR_pkg.vhd
+l0
+L16
+VD^_L<dFeC^0iD=SL58_Sf2
+R11
+33
+b1
+Z168 !s108 1672705321.683633
+Z169 !s90 -reportprogress|300|-2008|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_BR_pkg.vhd|
+Z170 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_BR_pkg.vhd|
+Z171 o-2008 -work work -O0
+R16
+!s100 ;AXU4MRNECHB99De_J2Wn1
+!i10b 1
+Bbody
+Z172 DPx4 work 12 impri_br_pkg 0 22 D^_L<dFeC^0iD=SL58_Sf2
+R4
+R71
+R23
+R5
+R6
+R7
+l0
+L27
+V:OgYF5BjdHL3`?hIh8nPS0
+R11
+33
+R168
+R169
+R170
+R171
+R16
+nbody
+!s100 Tkf9M3T098D=;XNJm2iG=0
+!i10b 1
+Pimpri_memoria_d_pkg
+R24
+R4
+R71
+R23
+R5
+R6
+R7
+R1
+R8
+Z173 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MD_pkg.vhd
+Z174 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MD_pkg.vhd
+l0
+L17
+VJOUehYc:[5SG7k]g:2FCL2
+R11
+33
+b1
+Z175 !s108 1672705321.734134
+Z176 !s90 -reportprogress|300|-2008|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MD_pkg.vhd|
+Z177 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MD_pkg.vhd|
+R171
+R16
+!s100 oKYdjGKzoBG68dYcBNzbI0
+!i10b 1
+Bbody
+Z178 DPx4 work 19 impri_memoria_d_pkg 0 22 JOUehYc:[5SG7k]g:2FCL2
+R24
+R4
+R71
+R23
+R5
+R6
+R7
+l0
+L25
+VTNY`KH5>5Mn]E0J[bHZU70
+R11
+33
+R175
+R176
+R177
+R171
+R16
+nbody
+!s100 :4828G?QkFTLTB63:CLI13
+!i10b 1
+Pimpri_memoria_i_pkg
+R70
+R36
+R77
+Z179 DPx4 work 27 tipos_constan_memoria_i_pkg 0 22 ZG`Wgh8_ZW<_:i1_RMdJ^0
+R4
+R71
+R23
+R5
+R6
+R7
+R1
+R8
+Z180 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MI_pkg.vhd
+Z181 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MI_pkg.vhd
+l0
+L18
+VGoIbdE6=A:DRKRf1@0V8e0
+R11
+33
+b1
+Z182 !s108 1672705321.779734
+Z183 !s90 -reportprogress|300|-2008|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MI_pkg.vhd|
+Z184 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/impri_BR_memoria_pkg/impri_MI_pkg.vhd|
+R171
+R16
+!s100 BK:Z[m7CznDYXR^=]]h=<3
+!i10b 1
+Bbody
+Z185 DPx4 work 19 impri_memoria_i_pkg 0 22 GoIbdE6=A:DRKRf1@0V8e0
+R70
+R36
+R77
+R179
+R4
+R71
+R23
+R5
+R6
+R7
+l0
+L26
+V^<9^<AfY3REWz18HPZ9Tk0
+R11
+33
+R182
+R183
+R184
+R171
+R16
+nbody
+!s100 Rm_0ocn052ja9Q8YD2T2P2
+!i10b 1
+Pimprimir_inst_ascii_pkg
+R4
+R36
+R71
+R5
+R6
+R7
+R1
+R8
+Z186 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/generar_impri_instruc_pkg/imprimir_inst_ascii_pkg.vhd
+Z187 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/generar_impri_instruc_pkg/imprimir_inst_ascii_pkg.vhd
+l0
+L16
+V`mnm`nmK9DUZOBh9dE?]J0
+R11
+31
+b1
+Z188 !s108 1672705321.536313
+Z189 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/generar_impri_instruc_pkg/imprimir_inst_ascii_pkg.vhd|
+Z190 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../../LAB4/PROC_SERIE/UTILIDADES_pkg/generar_impri_instruc_pkg/imprimir_inst_ascii_pkg.vhd|
+R15
+R16
+!s100 :Za::RiJHXX<ZGG`PBC]M2
+!i10b 1
+Bbody
+R70
+R4
+R36
+R71
+R5
+R6
+R7
+l0
+L30
+VVjl9io6B67[>C]<97b<ND2
+R11
+31
+R188
+R189
+R190
+R15
+R16
+nbody
+!s100 [j4aXG;G5@Id3CHo1A58o3
+!i10b 1
+Pinicializa_mem_i_pkg
+R23
+R179
+R4
+R71
+R5
+Z191 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z192 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R6
+R7
+R1
+R8
+Z193 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/memoria_MI/CODIGO/ini_mem_I_pkg.vhd
+Z194 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/memoria_MI/CODIGO/ini_mem_I_pkg.vhd
+l0
+L19
+VejFhBXh5218L1P1S]D=Qz2
+R11
+31
+b1
+Z195 !s108 1672705319.527679
+Z196 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/memoria_MI/CODIGO/ini_mem_I_pkg.vhd|
+Z197 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/memoria_MI/CODIGO/ini_mem_I_pkg.vhd|
+R15
+R16
+!s100 52hH:h9HEGbLn9CbBf<O73
+!i10b 1
+Bbody
+Z198 DPx4 work 20 inicializa_mem_i_pkg 0 22 ejFhBXh5218L1P1S]D=Qz2
+R23
+R179
+R4
+R71
+R5
+R191
+R192
+R6
+R7
+l0
+L24
+VdHH[nYbJK6USV5QY2>DcO3
+R11
+31
+R195
+R196
+R197
+R15
+R16
+nbody
+!s100 z@6RJ=30YZoQR:Wmz5>m20
+!i10b 1
+Pinicializa_mem_pkg
+R4
+R23
+R24
+R71
+R5
+R191
+R192
+R6
+R7
+R1
+R8
+Z199 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/memoria_ram/CODIGO/ini_mem_pkg.vhd
+Z200 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/memoria_ram/CODIGO/ini_mem_pkg.vhd
+l0
+L18
+VDJJ9[d>ofU64XmefaIVlJ2
+R11
+31
+b1
+Z201 !s108 1672705319.567425
+Z202 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/memoria_ram/CODIGO/ini_mem_pkg.vhd|
+Z203 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/memoria_ram/CODIGO/ini_mem_pkg.vhd|
+R15
+R16
+!s100 2c9=322;OTn_3WJLzeT?L0
+!i10b 1
+Bbody
+Z204 DPx4 work 18 inicializa_mem_pkg 0 22 DJJ9[d>ofU64XmefaIVlJ2
+R4
+R23
+R24
+R71
+R5
+R191
+R192
+R6
+R7
+l0
+L23
+VcAOXF4B2S[XCTGfJKT2hL2
+R11
+31
+R201
+R202
+R203
+R15
+R16
+nbody
+!s100 f0MRF8z2TOWa@J9Y?@_MS0
+!i10b 1
+Einst_latproh
+R1
+R4
+R36
+R3
+R5
+R6
+R7
+R8
+Z205 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/inst_latproh.vhd
+Z206 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/inst_latproh.vhd
+l0
+L15
+VROlj6ojG_MlPiKLbW1;zP1
+R11
+31
+Z207 !s108 1672705319.254230
+Z208 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/inst_latproh.vhd|
+Z209 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/inst_latproh.vhd|
+R15
+R16
+!s100 :@2OHAKc;WXlG5[OH4lVE0
+!i10b 1
+Acompor
+R4
+R36
+R3
+R5
+R6
+R7
+DEx4 work 12 inst_latproh 0 22 ROlj6ojG_MlPiKLbW1;zP1
+l22
+L20
+V`JU3?aMGnX1Dc_QjkYOIf1
+R11
+31
+R207
+R208
+R209
+R15
+R16
+!s100 fUFR?aOmHH3=<NdkhFXlz2
+!i10b 1
+Elatproh
+Z210 w1672689334
+Z211 DPx4 work 10 regdes_pkg 0 22 ldi8l2Qb2EcjVfm2i<:1G1
+R4
+R5
+R6
+R7
+R8
+Z212 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/latproh.vhd
+Z213 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/latproh.vhd
+l0
+L13
+VI@Sg:PX;m]77o;6QLB_1=0
+R11
+31
+Z214 !s108 1672705320.823254
+Z215 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/latproh.vhd|
+Z216 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LATPROH/CODIGO/latproh.vhd|
+R15
+R16
+!s100 1iKNjO^A@?oGSfDojCzIO0
+!i10b 1
+Aestruc
+R211
+R4
+R5
+R6
+R7
+DEx4 work 7 latproh 0 22 I@Sg:PX;m]77o;6QLB_1=0
+l23
+L20
+V:]c2FR4Y]c868lfk9lff03
+R11
+31
+R214
+R215
+R216
+R15
+R16
+!s100 9E1Y;hcW83F6B]@<kciG93
+!i10b 1
+Eldc
+Z217 w1672689434
+Z218 DPx4 work 23 retardos_cntl_seg_c_pkg 0 22 <8UG2Q]Hm7QC]C:=Kdlf52
+R211
+R4
+R6
+R7
+R8
+Z219 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDC/CODIGO/LDC.vhd
+Z220 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDC/CODIGO/LDC.vhd
+l0
+L13
+V>[407P6mj__JBjgEfD07Z0
+R11
+31
+Z221 !s108 1672705320.849421
+Z222 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDC/CODIGO/LDC.vhd|
+Z223 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDC/CODIGO/LDC.vhd|
+R15
+R16
+!s100 2IkLm7EBlKMhlDRZ`i8ER0
+!i10b 1
+Aestructural
+R218
+R211
+R4
+R6
+R7
+DEx4 work 3 ldc 0 22 >[407P6mj__JBjgEfD07Z0
+l23
+L21
+V4VPzIW6CcT4EBFL?zB3o_0
+R11
+31
+R221
+R222
+R223
+R15
+R16
+!s100 ::hK9^lQ1oYA10]chDz]T1
+!i10b 1
+Eldd
+Z224 w1669674039
+R116
+R118
+R5
+R3
+R4
+R6
+R7
+R8
+Z225 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDD/CODIGO/LDD.vhd
+Z226 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDD/CODIGO/LDD.vhd
+l0
+L14
+VYUn=Uk1I?R0mPQN[6fa:@2
+R11
+31
+Z227 !s108 1672705320.793031
+Z228 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDD/CODIGO/LDD.vhd|
+Z229 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDD/CODIGO/LDD.vhd|
+R15
+R16
+!s100 a=VCFcNCm?hLK:J2zYz270
+!i10b 1
+Aestructural
+R116
+R118
+R5
+R3
+R4
+R6
+R7
+DEx4 work 3 ldd 0 22 YUn=Uk1I?R0mPQN[6fa:@2
+l30
+L24
+V>_Od8=EPVW0e[jN^VS9252
+R11
+31
+R227
+R228
+R229
+R15
+R16
+!s100 2]7J5UJInPE_cC72W^7A21
+!i10b 1
+Eldrd_c
+Z230 w1672689295
+R218
+R4
+R6
+R7
+R8
+Z231 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDRD/CODIGO/LDRD_C.vhd
+Z232 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDRD/CODIGO/LDRD_C.vhd
+l0
+L12
+VdhAcVVP5I3HEhW@BKgMLY3
+R11
+31
+Z233 !s108 1672705319.287869
+Z234 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDRD/CODIGO/LDRD_C.vhd|
+Z235 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/COMPONENTES/LDRD/CODIGO/LDRD_C.vhd|
+R15
+R16
+!s100 3z45l_XGhZ^nbb6znDTGz2
+!i10b 1
+Acomportamiento
+R218
+R4
+R6
+R7
+DEx4 work 6 ldrd_c 0 22 dhAcVVP5I3HEhW@BKgMLY3
+l22
+L21
+VzK@<XiFCYcBMIbIm3E??=2
+R11
+31
+R233
+R234
+R235
+R15
+R16
+!s100 m8o5;_HDghV3CX51`g1<i0
+!i10b 1
+Eldrs
+Z236 w1669672377
+R116
+R4
+R118
+R5
+R3
+R6
+R7
+R8
+Z237 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDRS/CODIGO/LDRS.vhd
+Z238 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDRS/CODIGO/LDRS.vhd
+l0
+L13
+V>50L7]e^28]fnHCl<b:P:2
+R11
+31
+Z239 !s108 1672705320.942677
+Z240 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDRS/CODIGO/LDRS.vhd|
+Z241 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LDRS/CODIGO/LDRS.vhd|
+R15
+R16
+!s100 zVODCZdKJU;?EVC`ZPV_`2
+!i10b 1
+Acomportamiento
+R116
+R4
+R118
+R5
+R3
+R6
+R7
+DEx4 work 4 ldrs 0 22 >50L7]e^28]fnHCl<b:P:2
+l21
+L19
+V;[?l0[i]B]dFYYmaHXZWe2
+R11
+31
+R239
+R240
+R241
+R15
+R16
+!s100 Hhb`BA`eZLi[=2nf29icT1
+!i10b 1
+Elgr
+Z242 w1669671969
+R116
+R4
+R118
+R5
+R3
+R6
+R7
+R8
+Z243 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LGR/CODIGO/LGR.vhd
+Z244 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LGR/CODIGO/LGR.vhd
+l0
+L13
+V_c7Z^<Z<VK4YcL58ZocmY2
+R11
+31
+Z245 !s108 1672705320.974536
+Z246 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LGR/CODIGO/LGR.vhd|
+Z247 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/LGR/CODIGO/LGR.vhd|
+R15
+R16
+!s100 3EIz_HiAK4a3I=CbC>gRZ2
+!i10b 1
+Acomportamiento
+R116
+R4
+R118
+R5
+R3
+R6
+R7
+DEx4 work 3 lgr 0 22 _c7Z^<Z<VK4YcL58ZocmY2
+l21
+L19
+V:1XDM1IiDFb0^n:G^GNF73
+R11
+31
+R245
+R246
+R247
+R15
+R16
+!s100 BUnME]jAbV^JoP:A`6cc;1
+!i10b 1
+Elib_c
+R1
+R116
+R117
+R118
+R5
+R3
+R4
+R6
+R7
+R8
+Z248 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/LIB/CODIGO/LIB_C.vhd
+Z249 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/LIB/CODIGO/LIB_C.vhd
+l0
+L16
+V98i2fUU`FXbkJ24Kcf=MB0
+R11
+31
+Z250 !s108 1672705320.595220
+Z251 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/LIB/CODIGO/LIB_C.vhd|
+Z252 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CONTROL_SEG_CORTOS/LIB/CODIGO/LIB_C.vhd|
+R15
+R16
+!s100 Af;f><>50ezl@bMH>1>J23
+!i10b 1
+Aestructural
+R116
+R117
+R118
+R5
+R3
+R4
+R6
+R7
+DEx4 work 5 lib_c 0 22 98i2fUU`FXbkJ24Kcf=MB0
+l33
+L25
+V@VAHGzz3SE6@gj`W8NdQN0
+R11
+31
+R250
+R251
+R252
+R15
+R16
+!s100 oXb@SeHk9?V9W:^2nizdn0
+!i10b 1
+Emux2
+R1
+R3
+R4
+R35
+R5
+R6
+R7
+R8
+Z253 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux2.vhd
+Z254 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux2.vhd
+l0
+L14
+VI<cEV7RC;GeO5P]=9YgW[0
+R11
+31
+Z255 !s108 1672705318.734613
+Z256 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux2.vhd|
+Z257 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux2.vhd|
+R15
+R16
+!s100 X;R_We6X:UF5N=g0QnAd22
+!i10b 1
+Acomportamiento
+R3
+R4
+R35
+R5
+R6
+R7
+DEx4 work 4 mux2 0 22 I<cEV7RC;GeO5P]=9YgW[0
+l22
+L21
+VX40C^5Xg^GiC5^ZANa6KH2
+R11
+31
+R255
+R256
+R257
+R15
+R16
+!s100 i5OhNDEULgfiYiJNf6fbA3
+!i10b 1
+Emux2m
+R1
+R5
+R6
+R7
+R8
+Z258 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ELEMENTOS/mux2M.vhd
+Z259 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ELEMENTOS/mux2M.vhd
+l0
+L10
+VEcBB7B>[GU:K^BNC8LcD21
+R11
+31
+Z260 !s108 1672705317.704235
+Z261 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ELEMENTOS/mux2M.vhd|
+Z262 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/ELEMENTOS/mux2M.vhd|
+R15
+R16
+!s100 3l0VG8PaN@DA4Lk[8RDU`0
+!i10b 1
+Acomportamiento
+R5
+R6
+R7
+DEx4 work 5 mux2m 0 22 EcBB7B>[GU:K^BNC8LcD21
+l18
+L17
+VKZ<8>4nJOX;lAb>z7;0a43
+R11
+31
+R260
+R261
+R262
+R15
+R16
+!s100 OXoLfiz<]kM95ALQIUB=70
+!i10b 1
+Emux3
+R1
+R3
+R4
+R35
+R5
+R6
+R7
+R8
+Z263 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux3.vhd
+Z264 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux3.vhd
+l0
+L14
+VGOl<BE]3BDH7DW^N72VU30
+R11
+31
+Z265 !s108 1672705318.815868
+Z266 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux3.vhd|
+Z267 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/mux3.vhd|
+R15
+R16
+!s100 BH5M^I@Q>V;0G2>5FJ4CU2
+!i10b 1
+Acomportamiento
+R3
+R4
+R35
+R5
+R6
+R7
+DEx4 work 4 mux3 0 22 GOl<BE]3BDH7DW^N72VU30
+l22
+L21
+V`dI[7JTOA^[U1f[Ji9`Qo1
+R11
+31
+R265
+R266
+R267
+R15
+R16
+!s100 3DGLnVbblBC8WJIh8>fHT2
+!i10b 1
+Emuxdirec
+R1
+R3
+R4
+R35
+R5
+R6
+R7
+R8
+Z268 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/muxdirec.vhd
+Z269 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/muxdirec.vhd
+l0
+L14
+Vfk]7k3cle?M?SnD<jncod3
+R11
+31
+Z270 !s108 1672705319.099841
+Z271 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/muxdirec.vhd|
+Z272 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/muxdirec.vhd|
+R15
+R16
+!s100 dSCf_ggQdMUQ:_1EleF:A3
+!i10b 1
+Acomportamiento
+R3
+R4
+R35
+R5
+R6
+R7
+DEx4 work 8 muxdirec 0 22 fk]7k3cle?M?SnD<jncod3
+l22
+L21
+VcPc@iVlFTYRH1Jz_jh6PU2
+R11
+31
+R270
+R271
+R272
+R15
+R16
+!s100 _lA:zfn@aFIF]Jh7h2jVQ0
+!i10b 1
+Emuxins
+R1
+R4
+R35
+R5
+R6
+R7
+R8
+Z273 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/muxIns.vhd
+Z274 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/muxIns.vhd
+l0
+L13
+VR[<CC57GXS^`AzfZLCV><1
+R11
+31
+Z275 !s108 1672705318.394992
+Z276 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/muxIns.vhd|
+Z277 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/muxIns.vhd|
+R15
+R16
+!s100 ;QNFS1:Ua6VB_EW9nJlZd0
+!i10b 1
+Acomportamiento
+R4
+R35
+R5
+R6
+R7
+DEx4 work 6 muxins 0 22 R[<CC57GXS^`AzfZLCV><1
+l20
+L19
+V6VY2;mBgNh`;645ho^D8E2
+R11
+31
+R275
+R276
+R277
+R15
+R16
+!s100 agl0HPWVHSP54:?_5m@a;2
+!i10b 1
+Pparam_disenyo_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd
+l0
+L9
+VdQO[:VbkRS]1;1_96^i:H0
+R11
+31
+R15
+R16
+!s100 3R_1M]JfV9Cjd@Th67g]o0
+!i10b 1
+!s108 1672705317.683677
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd|
+Eprueba_rproc_md_mi_c_modsecu
+Z278 w1556697193
+Z279 DPx4 work 18 rimpri_traza_c_pkg 0 22 KY[f;G4>NCb1HC<h5aU;X1
+R172
+R70
+R77
+R185
+R178
+R179
+R23
+R24
+R36
+R3
+R4
+Z280 DPx3 std 3 env 0 22 kU@g3bh3dSQ6SKX7=V`LE3
+R71
+R5
+R6
+R7
+R8
+Z281 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../PRUEBAS/prueba_Rproc_MD_MI_C_ModSecu.vhd
+Z282 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../PRUEBAS/prueba_Rproc_MD_MI_C_ModSecu.vhd
+l0
+L25
+V2SMkjf8eH[fHR;DTOdIHU3
+!s100 DdBo?0^hYkl>7Xao<Xoi>2
+R11
+33
+!i10b 1
+Z283 !s108 1672705321.841074
+Z284 !s90 -reportprogress|300|-2008|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../PRUEBAS/prueba_Rproc_MD_MI_C_ModSecu.vhd|
+Z285 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../PRUEBAS/prueba_Rproc_MD_MI_C_ModSecu.vhd|
+R171
+R16
+Acomportamiento
+R279
+R172
+R70
+R77
+R185
+R178
+R179
+R23
+R24
+R36
+R3
+R4
+R280
+R71
+R5
+R6
+R7
+DEx4 work 28 prueba_rproc_md_mi_c_modsecu 0 22 2SMkjf8eH[fHR;DTOdIHU3
+l118
+L35
+V:[6i0I3F6FlGND7OkoV0Z1
+!s100 ]KzA<hR0FZ2FL7?O7a7;E1
+R11
+33
+!i10b 1
+R283
+R284
+R285
+R171
+R16
+Eracceso_md
+R1
+R211
+R23
+R24
+R22
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+Z286 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/ACCESO/CODIGO/Racceso_MD.vhd
+Z287 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/ACCESO/CODIGO/Racceso_MD.vhd
+l0
+L18
+VQMP_Xn[>[TLooaJTVaFCf1
+R11
+31
+Z288 !s108 1672705321.505490
+Z289 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/ACCESO/CODIGO/Racceso_MD.vhd|
+Z290 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/ACCESO/CODIGO/Racceso_MD.vhd|
+R15
+R16
+!s100 L16k47zg7hHJT5g]>1bA13
+!i10b 1
+Aestructural
+R211
+R23
+R24
+R22
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 racceso_md 0 22 QMP_Xn[>[TLooaJTVaFCf1
+l29
+L26
+VC>=3iUV7W9LNaoSZjOM2]1
+R11
+31
+R288
+R289
+R290
+R15
+R16
+!s100 lz6;QK`Jm<Q6ERk0?TaJc3
+!i10b 1
+Eralu
+R1
+R211
+R54
+R4
+R3
+R5
+R6
+R7
+R8
+Z291 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/Ralu.vhd
+Z292 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/Ralu.vhd
+l0
+L16
+V@loeH`nH=Pgz2<E<`:BcO3
+R11
+31
+Z293 !s108 1672705320.081908
+Z294 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/Ralu.vhd|
+Z295 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/Ralu.vhd|
+R15
+R16
+!s100 7HTB3CgAN>9WE?<eTU9A63
+!i10b 1
+Acompor
+R211
+R54
+R4
+R3
+R5
+R6
+R7
+DEx4 work 4 ralu 0 22 @loeH`nH=Pgz2<E<`:BcO3
+l28
+L24
+V[]]VjAX0OF<K0F@f3e4R21
+R11
+31
+R293
+R294
+R295
+R15
+R16
+!s100 FRX>eL;Blc7OYF7UYNHdI3
+!i10b 1
+Erbr
+R1
+R211
+R3
+R54
+R4
+R5
+R6
+R7
+R8
+Z296 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/RBR.vhd
+Z297 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/RBR.vhd
+l0
+L15
+V7fl3?c[fgYmfBmW5O]QQJ0
+R11
+31
+Z298 !s108 1672705319.848240
+Z299 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/RBR.vhd|
+Z300 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/BR/CODIGO/RBR.vhd|
+R15
+R16
+!s100 [S;MzBzT?baVCfY51b8]M0
+!i10b 1
+Acompor
+R211
+R3
+R54
+R4
+R5
+R6
+R7
+DEx4 work 3 rbr 0 22 7fl3?c[fgYmfBmW5O]QQJ0
+l32
+L26
+V?Ub59S9b;fL8diQ`JVh:[2
+R11
+31
+R298
+R299
+R300
+R15
+R16
+!s100 okDjAiQb9oYei2VkDTA4J1
+!i10b 1
+Ercam_mem_datos_c
+R1
+R211
+Z301 DPx4 work 21 rcomponentes_md_c_pkg 0 22 2b6Q=6l7hQ;JY8IR09GVj3
+Z302 DPx4 work 19 rcomponentes_md_pkg 0 22 CdhA^[QZhZGOWbL[@4K2>0
+R35
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+R8
+Z303 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/ENSAMBLADO_compontes_memoria/CODIGO/Rcam_MEM_DATOS_C.vhd
+Z304 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/ENSAMBLADO_compontes_memoria/CODIGO/Rcam_MEM_DATOS_C.vhd
+l0
+L18
+V0AIhKO7]=9ifBl@]O1^`h2
+R11
+31
+Z305 !s108 1672705321.155991
+Z306 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/ENSAMBLADO_compontes_memoria/CODIGO/Rcam_MEM_DATOS_C.vhd|
+Z307 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/ENSAMBLADO_compontes_memoria/CODIGO/Rcam_MEM_DATOS_C.vhd|
+R15
+R16
+!s100 4CWNlUdd:<_`Y=zjdRPZ30
+!i10b 1
+Aestruc
+R211
+R301
+R302
+R35
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+DEx4 work 16 rcam_mem_datos_c 0 22 0AIhKO7]=9ifBl@]O1^`h2
+l35
+L28
+VT3dcG4A1X_aaaAfafD[8^0
+R11
+31
+R305
+R306
+R307
+R15
+R16
+!s100 CLO`>di[>:?e]h`7c2SBL2
+!i10b 1
+Ercam_mem_inst
+R1
+Z308 DPx4 work 19 rcomponentes_mi_pkg 0 22 S6CS]8gU>N>moOnBJkV5K3
+R35
+R23
+R179
+R3
+R4
+R5
+R6
+R7
+R8
+Z309 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST.vhd
+Z310 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST.vhd
+l0
+L16
+VAnKZdNiT`0<lnJ:feL:1O0
+R11
+31
+Z311 !s108 1672705321.077260
+Z312 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST.vhd|
+Z313 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST.vhd|
+R15
+R16
+!s100 ]oXBAPbef6PI_H9Lhg3@22
+!i10b 1
+Aestruc
+R308
+R35
+R23
+R179
+R3
+R4
+R5
+R6
+R7
+DEx4 work 13 rcam_mem_inst 0 22 AnKZdNiT`0<lnJ:feL:1O0
+l25
+L23
+VMhKU=bnZ[0@im2A=DJ][k3
+R11
+31
+R311
+R312
+R313
+R15
+R16
+!s100 ??2C_TEj61S^;MganESbY3
+!i10b 1
+Ercam_mem_inst_iny_pcero
+R1
+R179
+R308
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+R8
+Z314 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST_INY_Pcero.vhd
+Z315 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST_INY_Pcero.vhd
+l0
+L17
+VGfd6cI8i@QEJ>doBnGKn43
+R11
+31
+Z316 !s108 1672705321.047444
+Z317 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST_INY_Pcero.vhd|
+Z318 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/ENSAMBLADO_componentes_MI/CODIGO/Rcam_MEM_INST_INY_Pcero.vhd|
+R15
+R16
+!s100 of6IXS>1`VjoImdghMOB21
+!i10b 1
+Aestructural
+R179
+R308
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+DEx4 work 23 rcam_mem_inst_iny_pcero 0 22 Gfd6cI8i@QEJ>doBnGKn43
+l31
+L24
+V`RczQCIZ5AWd;1B59HYlB1
+R11
+31
+R316
+R317
+R318
+R15
+R16
+!s100 cheGTAzAJie0cm2XlKV?83
+!i10b 1
+Ercamino_datos_c
+R1
+Z319 DPx4 work 23 rcomponentes_cortos_pkg 0 22 :d6MoeYoJnZOFmjFMfS`M0
+Z320 DPx4 work 28 rcomponentes_cam_datos_c_pkg 0 22 9?^T^WW0_J;g`bA=cnBnL0
+Z321 DPx4 work 26 rcomponentes_cam_datos_pkg 0 22 e9[Y]?>fRomVGc;:I9:RA0
+R54
+R36
+R3
+R37
+R4
+R35
+R5
+R6
+R7
+R8
+Z322 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/ENSAMBLADO_UC/CODIGO/Rcamino_datos_C.vhd
+Z323 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/ENSAMBLADO_UC/CODIGO/Rcamino_datos_C.vhd
+l0
+L21
+Vj8i9KIJ`jZ[9CYckVcFZT1
+R11
+31
+Z324 !s108 1672705319.778945
+Z325 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/ENSAMBLADO_UC/CODIGO/Rcamino_datos_C.vhd|
+Z326 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/ENSAMBLADO_UC/CODIGO/Rcamino_datos_C.vhd|
+R15
+R16
+!s100 PS>RL[?JKJNf7hNQd]BJC3
+!i10b 1
+Aestructural
+R319
+R320
+R321
+R54
+R36
+R3
+R37
+R4
+R35
+R5
+R6
+R7
+DEx4 work 15 rcamino_datos_c 0 22 j8i9KIJ`jZ[9CYckVcFZT1
+l58
+L41
+VB_1_kLP`XRR2IzZz]96Bo2
+R11
+31
+R324
+R325
+R326
+R15
+R16
+!s100 L5`l?2l=A03KnV^PO>ffl0
+!i10b 1
+Ercamino_secuen_c_modsecu
+R1
+R211
+Z327 DPx4 work 42 rcomponentes_secuenciamiento_c_modsecu_pkg 0 22 EGkCQ5BA8HV@HJnGngQCz1
+Z328 DPx4 work 34 rcomponentes_secuenciamiento_c_pkg 0 22 g76@[`?z0I88KL_m4he530
+Z329 DPx4 work 32 rcomponentes_secuenciamiento_pkg 0 22 =M?9Mh;DU=F=JNN9hgBY;1
+Z330 DPx4 work 31 componentes_secuenciamiento_pkg 0 22 RW`AlG@RNn:D@]g1zZVfc3
+R3
+R4
+R5
+R6
+R7
+R8
+Z331 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/ENSAMBLADO_US/CODIGO/Rcamino_secuen_C_ModSecu.vhd
+Z332 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/ENSAMBLADO_US/CODIGO/Rcamino_secuen_C_ModSecu.vhd
+l0
+L19
+VXANTnPL`o9n_3k?HJVUQ61
+R11
+31
+Z333 !s108 1672705320.259401
+Z334 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/ENSAMBLADO_US/CODIGO/Rcamino_secuen_C_ModSecu.vhd|
+Z335 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/ENSAMBLADO_US/CODIGO/Rcamino_secuen_C_ModSecu.vhd|
+R15
+R16
+!s100 m]`]oK]Vcmzi7A79JO7EQ0
+!i10b 1
+Aestructural
+R211
+R327
+R328
+R329
+R330
+R3
+R4
+R5
+R6
+R7
+DEx4 work 24 rcamino_secuen_c_modsecu 0 22 XANTnPL`o9n_3k?HJVUQ61
+l45
+L35
+Vi8Whf3dd0]B]JVP54iUhi0
+R11
+31
+R333
+R334
+R335
+R15
+R16
+!s100 l4<KTbm;A:]TAh6cH[QYT0
+!i10b 1
+Prcomponentes_cam_datos_c_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_C_pkg.vhd
+l0
+L12
+V9?^T^WW0_J;g`bA=cnBnL0
+R11
+31
+R15
+R16
+!s100 Ph4@6ioo4QfPdS6UW@XK70
+!i10b 1
+!s108 1672705317.989778
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_C_pkg.vhd|
+Prcomponentes_cam_datos_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_pkg.vhd
+l0
+L12
+Ve9[Y]?>fRomVGc;:I9:RA0
+R11
+31
+R15
+R16
+!s100 AU<^Yn:o_]Jz]e5]eG0840
+!i10b 1
+!s108 1672705317.967006
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/componentes_cam_datos_pkg/Rcomponentes_cam_datos_pkg.vhd|
+Prcomponentes_cortos_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/Rcomponentes_cortos_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/Rcomponentes_cortos_pkg.vhd
+l0
+L12
+V:d6MoeYoJnZOFmjFMfS`M0
+R11
+31
+R15
+R16
+!s100 l3^V7S@2R42@54BHVNZgR1
+!i10b 1
+!s108 1672705318.337011
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/Rcomponentes_cortos_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/componentes_cortos_pkg/Rcomponentes_cortos_pkg.vhd|
+Prcomponentes_decodificador_modsecu_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rcomponentes_decodificador_ModSecu_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rcomponentes_decodificador_ModSecu_pkg.vhd
+l0
+L12
+VdTb1ahi77VdBXW8DER_L<1
+R11
+31
+R15
+R16
+!s100 MRR@D;GnT1acOH9TL^J4P3
+!i10b 1
+!s108 1672705318.080096
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rcomponentes_decodificador_ModSecu_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rcomponentes_decodificador_ModSecu_pkg.vhd|
+Prcomponentes_md_c_pkg
+R24
+R3
+R4
+R23
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/componentes_MD_pkg/Rcomponentes_MD_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/componentes_MD_pkg/Rcomponentes_MD_C_pkg.vhd
+l0
+L15
+V2b6Q=6l7hQ;JY8IR09GVj3
+R11
+31
+R15
+R16
+!s100 `d0>hkV7zlN82F1A5;b:O2
+!i10b 1
+!s108 1672705319.368591
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/componentes_MD_pkg/Rcomponentes_MD_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/componentes_MD_pkg/Rcomponentes_MD_C_pkg.vhd|
+Prcomponentes_md_pkg
+R24
+R3
+R4
+R23
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/componentes_MD_pkg/Rcomponentes_MD_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/componentes_MD_pkg/Rcomponentes_MD_pkg.vhd
+l0
+L15
+VCdhA^[QZhZGOWbL[@4K2>0
+R11
+31
+R15
+R16
+!s100 DW?fBlY55?o4;Yh;h__j=2
+!i10b 1
+!s108 1672705319.346543
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/componentes_MD_pkg/Rcomponentes_MD_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/componentes_MD_pkg/Rcomponentes_MD_pkg.vhd|
+Prcomponentes_mi_pkg
+R179
+R3
+R4
+R23
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/componentes_MI_pkg/Rcomponentes_MI_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/componentes_MI_pkg/Rcomponentes_MI_pkg.vhd
+l0
+L15
+VS6CS]8gU>N>moOnBJkV5K3
+R11
+31
+R15
+R16
+!s100 IFofEb?:[GjQ^j?Sl57?81
+!i10b 1
+!s108 1672705319.397680
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/componentes_MI_pkg/Rcomponentes_MI_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/componentes_MI_pkg/Rcomponentes_MI_pkg.vhd|
+Prcomponentes_proc_md_mi_c_modsecu_pkg
+R179
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_ModSecu_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_ModSecu_pkg.vhd
+l0
+L14
+VR9097mU[K_gkCO`ShgXEQ1
+R11
+31
+R15
+R16
+!s100 [djkNCnFc1D[Kg^22AB;X3
+!i10b 1
+!s108 1672705319.496269
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_ModSecu_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_ModSecu_pkg.vhd|
+Prcomponentes_proc_md_mi_c_pkg
+R179
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_pkg.vhd
+l0
+L14
+VHcjPlBD2a:31A]L4n44173
+R11
+31
+R15
+R16
+!s100 KYhTjkk6kD]2kakeoo<_B1
+!i10b 1
+!s108 1672705319.461211
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_C_pkg.vhd|
+Prcomponentes_proc_md_mi_pkg
+R179
+R23
+R24
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_pkg.vhd
+l0
+L14
+VoFz83R`5E394`>VQR0lW^1
+R11
+31
+R15
+R16
+!s100 OUPD9Ogc`oZGJDoV]V>Mj0
+!i10b 1
+!s108 1672705319.428963
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/componentes_proc_MD_MI_pkg/Rcomponentes_proc_MD_MI_pkg.vhd|
+Prcomponentes_secuenciamiento_c_modsecu_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_ModSecu_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_ModSecu_pkg.vhd
+l0
+L12
+VEGkCQ5BA8HV@HJnGngQCz1
+R11
+31
+R15
+R16
+!s100 R6]RA>Xa=USU4zQL0`H4i0
+!i10b 1
+!s108 1672705317.897856
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_ModSecu_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_ModSecu_pkg.vhd|
+Prcomponentes_secuenciamiento_c_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_pkg.vhd
+l0
+L12
+Vg76@[`?z0I88KL_m4he530
+R11
+31
+R15
+R16
+!s100 E0ND3hz3XzeITO9ACHMEA3
+!i10b 1
+!s108 1672705317.855848
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_C_pkg.vhd|
+Prcomponentes_secuenciamiento_pkg
+R5
+R3
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_pkg.vhd
+l0
+L12
+V=M?9Mh;DU=F=JNN9hgBY;1
+R11
+31
+R15
+R16
+!s100 3l3bDKV5gi@PFTCakf>bX1
+!i10b 1
+!s108 1672705317.789053
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/componentes_secuenciamiento_pkg/Rcomponentes_secuenciamiento_pkg.vhd|
+Ercortosalu
+R1
+R211
+R3
+Z336 DPx4 work 22 componentes_cortos_pkg 0 22 bK[;AI0mV[?2;;dKYZjoM0
+R4
+R5
+R6
+R7
+R8
+Z337 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosALU.vhd
+Z338 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosALU.vhd
+l0
+L15
+VaK90?Ame15od?J5kE`0ER3
+R11
+31
+Z339 !s108 1672705319.971522
+Z340 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosALU.vhd|
+Z341 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosALU.vhd|
+R15
+R16
+!s100 RLMJ?oQ1oTK1:^`D[F^HY1
+!i10b 1
+Aestructural
+R211
+R3
+R336
+R4
+R5
+R6
+R7
+DEx4 work 10 rcortosalu 0 22 aK90?Ame15od?J5kE`0ER3
+l26
+L22
+VKF51ETl2@I64Af^OAoj[b2
+R11
+31
+R339
+R340
+R341
+R15
+R16
+!s100 ?gC`bYBFHKBKZ6VLIN^GB1
+!i10b 1
+Ercortosdl
+R1
+R211
+R3
+R336
+R4
+R5
+R6
+R7
+R8
+Z342 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosDL.vhd
+Z343 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosDL.vhd
+l0
+L15
+VTQl?V24TIO:XLXFbBOU7W0
+R11
+31
+Z344 !s108 1672705319.890129
+Z345 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosDL.vhd|
+Z346 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/CORTOCIRCUITOS/CODIGO/RcortosDL.vhd|
+R15
+R16
+!s100 bBK^^n_lN<>YG4Igk5Cb`2
+!i10b 1
+Aestructural
+R211
+R3
+R336
+R4
+R5
+R6
+R7
+DEx4 work 9 rcortosdl 0 22 TQl?V24TIO:XLXFbBOU7W0
+l25
+L22
+VK=]SId?QTAEYozc^ThGG=3
+R11
+31
+R344
+R345
+R346
+R15
+R16
+!s100 f``h@=MO;aai1[o^4?IVm0
+!i10b 1
+Erd_1
+R1
+Z347 DPx4 work 19 retardos_regdes_pkg 0 22 o9KB=IOC;BXch]EnERG9i3
+R4
+R6
+R7
+R8
+Z348 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_1.vhd
+Z349 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_1.vhd
+l0
+L12
+Vg<;@=ek4EWfXLOW_AD<KE2
+R11
+31
+Z350 !s108 1672705318.680800
+Z351 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_1.vhd|
+Z352 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_1.vhd|
+R15
+R16
+!s100 F1k05m=gJh0PjWcf1B<]00
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 4 rd_1 0 22 g<;@=ek4EWfXLOW_AD<KE2
+l19
+L18
+VKHCY4L5bU]cT8l3D9N94P1
+R11
+31
+R350
+R351
+R352
+R15
+R16
+!s100 B[`A7h^B<98UGD^0lRaQA3
+!i10b 1
+Erd_d
+R1
+R347
+R4
+R6
+R7
+R8
+Z353 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_D.vhd
+Z354 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_D.vhd
+l0
+L12
+VHOaZQ]9@giI`5a]QngF6[3
+R11
+31
+Z355 !s108 1672705318.898271
+Z356 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_D.vhd|
+Z357 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_D.vhd|
+R15
+R16
+!s100 [@S;NjRINUS7LLGd>[V:>3
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 4 rd_d 0 22 HOaZQ]9@giI`5a]QngF6[3
+l19
+L18
+VaaPlTJ]<mzgoKkoV[z9AB3
+R11
+31
+R355
+R356
+R357
+R15
+R16
+!s100 BOakZz5jVOC@NFml5`iH:3
+!i10b 1
+Erd_n
+R1
+R347
+R4
+R6
+R7
+R8
+Z358 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_N.vhd
+Z359 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_N.vhd
+l0
+L12
+VO7RJf^8zM?D7hc;7?0h7i3
+R11
+31
+Z360 !s108 1672705318.613550
+Z361 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_N.vhd|
+Z362 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RD_N.vhd|
+R15
+R16
+!s100 2DoMWl`YikSEQbQmiZo`T2
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 4 rd_n 0 22 O7RJf^8zM?D7hc;7?0h7i3
+l20
+L19
+V=:J6mSnOMbEljRiHOJ@z@2
+R11
+31
+R360
+R361
+R362
+R15
+R16
+!s100 NbHbEZdGMK`RR<:6j:1<T1
+!i10b 1
+Erdb_dl_n
+R1
+R347
+R4
+R6
+R7
+R8
+Z363 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_DL_N.vhd
+Z364 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_DL_N.vhd
+l0
+L12
+VzDH39NQP@8L@VT5QLK2Mz3
+R11
+31
+Z365 !s108 1672705318.428092
+Z366 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_DL_N.vhd|
+Z367 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_DL_N.vhd|
+R15
+R16
+!s100 XX[^E_j>Oz^dg<oN6@_6A2
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 8 rdb_dl_n 0 22 zDH39NQP@8L@VT5QLK2Mz3
+l20
+L19
+VlB_C;ce4OHD=F0mSigd_z2
+R11
+31
+R365
+R366
+R367
+R15
+R16
+!s100 ;00F^oY[hg@FAL@LcfnBz1
+!i10b 1
+Erdb_n
+R1
+R347
+R4
+R6
+R7
+R8
+Z368 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_N.vhd
+Z369 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_N.vhd
+l0
+L12
+VFbPDdf?NQ6K]oeXRm6]PC2
+R11
+31
+Z370 !s108 1672705318.556912
+Z371 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_N.vhd|
+Z372 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDB_N.vhd|
+R15
+R16
+!s100 j:PT3gGL24IkU1AHe<QE;0
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 5 rdb_n 0 22 FbPDdf?NQ6K]oeXRm6]PC2
+l20
+L19
+Vmifg8Dm`]dZTc^?17hlSX1
+R11
+31
+R370
+R371
+R372
+R15
+R16
+!s100 =CKYV_M]Z[_3H4`MlJ]JV2
+!i10b 1
+Erdeco_cam_dat_secu_c_modsecu
+R1
+R327
+R328
+R329
+Z373 DPx4 work 38 rcomponentes_decodificador_modsecu_pkg 0 22 dTb1ahi77VdBXW8DER_L<1
+R320
+R321
+R36
+R3
+R37
+R4
+R5
+R6
+R7
+R8
+Z374 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/ENSAMBLADO_DECO_UC_US/CODIGO/RDeco_cam_dat_secu_C_ModSecu.vhd
+Z375 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/ENSAMBLADO_DECO_UC_US/CODIGO/RDeco_cam_dat_secu_C_ModSecu.vhd
+l0
+L21
+V>=zH9WMo7o[G9RFomzmGL2
+R11
+31
+Z376 !s108 1672705319.604709
+Z377 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/ENSAMBLADO_DECO_UC_US/CODIGO/RDeco_cam_dat_secu_C_ModSecu.vhd|
+Z378 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/ENSAMBLADO_DECO_UC_US/CODIGO/RDeco_cam_dat_secu_C_ModSecu.vhd|
+R15
+R16
+!s100 2B2CHEclfDzzddY[Jc?e<3
+!i10b 1
+Aestructural
+R327
+R328
+R329
+R373
+R320
+R321
+R36
+R3
+R37
+R4
+R5
+R6
+R7
+DEx4 work 28 rdeco_cam_dat_secu_c_modsecu 0 22 >=zH9WMo7o[G9RFomzmGL2
+l56
+L36
+Vgef2`3NRLaZzLoc8CIASG1
+R11
+31
+R376
+R377
+R378
+R15
+R16
+!s100 bT2FcnMOk>737?2Q2[N9U2
+!i10b 1
+Erdecodificador_modsecu
+R1
+R211
+R84
+R4
+R3
+R5
+R6
+R7
+R8
+Z379 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rdecodificador_ModSecu.vhd
+Z380 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rdecodificador_ModSecu.vhd
+l0
+L16
+VJnj2R5P=U7SiTnlQA<khk3
+R11
+31
+Z381 !s108 1672705319.643987
+Z382 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rdecodificador_ModSecu.vhd|
+Z383 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/AUTO_CONTROL/DECODIFICADOR/CODIGO/Rdecodificador_ModSecu.vhd|
+R15
+R16
+!s100 1=N46=[3`?0DdSnWPN`8=1
+!i10b 1
+Aestructural
+R211
+R84
+R4
+R3
+R5
+R6
+R7
+DEx4 work 22 rdecodificador_modsecu 0 22 Jnj2R5P=U7SiTnlQA<khk3
+l35
+L32
+VB<UCmcIc`QXQ06UG?^UFi1
+R11
+31
+R381
+R382
+R383
+R15
+R16
+!s100 AVVD0aVYF=A]o?_fJd;UF0
+!i10b 1
+Erdecopbropsec
+R1
+R211
+R118
+R4
+R3
+R5
+R6
+R7
+R8
+Z384 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/RdecoPBRopSEC.vhd
+Z385 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/RdecoPBRopSEC.vhd
+l0
+L17
+Vzm>CQ1UL@0IJ5@BkYinCS0
+R11
+31
+Z386 !s108 1672705320.632888
+Z387 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/RdecoPBRopSEC.vhd|
+Z388 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/DECO_PBR_opSEC/CODIGO/RdecoPBRopSEC.vhd|
+R15
+R16
+!s100 DMl;B;FhfJT`zZ=H[=f8W3
+!i10b 1
+Aestructural
+R211
+R118
+R4
+R3
+R5
+R6
+R7
+DEx4 work 13 rdecopbropsec 0 22 zm>CQ1UL@0IJ5@BkYinCS0
+l27
+L25
+Vcd>e<O8n0<IW^h0Kdm2=G3
+R11
+31
+R386
+R387
+R388
+R15
+R16
+!s100 DZdfbBj`@3H_e@h11a7zD0
+!i10b 1
+Erdecs
+R1
+R211
+R4
+R330
+R3
+R37
+R36
+R5
+R6
+R7
+R8
+Z389 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/RDECS.vhd
+Z390 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/RDECS.vhd
+l0
+L17
+V6I>eU]:ZRncPJiV]bh^zm2
+R11
+31
+Z391 !s108 1672705320.188444
+Z392 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/RDECS.vhd|
+Z393 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/DECS/CODIGO/RDECS.vhd|
+R15
+R16
+!s100 =J]>SE7oL2`IIOOmDNmRB3
+!i10b 1
+Aestructural
+R211
+R4
+R330
+R3
+R37
+R36
+R5
+R6
+R7
+DEx4 work 5 rdecs 0 22 6I>eU]:ZRncPJiV]bh^zm2
+l27
+L24
+VTS4GLh]zz:;M2GYf0KV=O1
+R11
+31
+R391
+R392
+R393
+R15
+R16
+!s100 f?^WPa]I?V3F47Cfo6>of3
+!i10b 1
+Erdi_1
+R1
+R347
+R4
+R6
+R7
+R8
+Z394 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_1.vhd
+Z395 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_1.vhd
+l0
+L12
+VHcEnj2FWc>7AMO1mb?F271
+R11
+31
+Z396 !s108 1672705318.649367
+Z397 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_1.vhd|
+Z398 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_1.vhd|
+R15
+R16
+!s100 kM?Y8=UZ9?FUC^PDP7L4]0
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 5 rdi_1 0 22 HcEnj2FWc>7AMO1mb?F271
+l19
+L18
+VGd[FHA6ojiHnH[dg::Lb81
+R11
+31
+R396
+R397
+R398
+R15
+R16
+!s100 U9>=R@<S9W;keSc?K[XT?1
+!i10b 1
+Erdi_n
+R1
+R347
+R4
+R6
+R7
+R8
+Z399 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_N.vhd
+Z400 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_N.vhd
+l0
+L12
+V`cB@aVZZBQf^`SFEEKBeA1
+R11
+31
+Z401 !s108 1672705318.775518
+Z402 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_N.vhd|
+Z403 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/CODIGO/RDI_N.vhd|
+R15
+R16
+!s100 g6JGlH^b@I0a>I;689lO:0
+!i10b 1
+Acomportamiento
+R347
+R4
+R6
+R7
+DEx4 work 5 rdi_n 0 22 `cB@aVZZBQf^`SFEEKBeA1
+l20
+L19
+V<1N?[`dQN>aZQCDW3Sl^k0
+R11
+31
+R401
+R402
+R403
+R15
+R16
+!s100 dcWOh0VEXAVQ5a<UmEMDN2
+!i10b 1
+Pregdes_pkg
+R4
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/RegDes_pkg/RegDes_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/RegDes_pkg/RegDes_pkg.vhd
+l0
+L11
+Vldi8l2Qb2EcjVfm2i<:1G1
+R11
+31
+R15
+R16
+!s100 NKoelAo_ImT5cD:DjNAU43
+!i10b 1
+!s108 1672705318.277665
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/RegDes_pkg/RegDes_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/REGISTRO_DESACOPLO/RegDes_pkg/RegDes_pkg.vhd|
+Pretardos_cntl_seg_c_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/tipos_constantes_pkg/retardos_cntl_seg_C_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/tipos_constantes_pkg/retardos_cntl_seg_C_pkg.vhd
+l0
+L9
+V<8UG2Q]Hm7QC]C:=Kdlf52
+R11
+31
+R15
+R16
+!s100 m0]13eb7l4Vz_h8]9FRXL3
+!i10b 1
+!s108 1672705317.564136
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/tipos_constantes_pkg/retardos_cntl_seg_C_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/tipos_constantes_pkg/retardos_cntl_seg_C_pkg.vhd|
+Pretardos_cntl_seg_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_cntl_seg_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_cntl_seg_pkg.vhd
+l0
+L9
+VkbaJG1dD7;BKICTb9]CN<2
+R11
+31
+R15
+R16
+!s100 3<F92iFb;gIB7Q95Nn0]]3
+!i10b 1
+!s108 1672705317.547807
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_cntl_seg_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_cntl_seg_pkg.vhd|
+Pretardos_even_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_even_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_even_pkg.vhd
+l0
+L9
+V>0fRA@5_4S=N]ANjc@@fN3
+R11
+31
+R15
+R16
+!s100 :iZ`bA[Ra_6XTj:QNK>Kb3
+!i10b 1
+!s108 1672705317.613909
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_even_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_even_pkg.vhd|
+Pretardos_pkg
+R6
+R7
+w1547656540
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd
+l0
+L9
+VfETc?bEQY_h3MOmQ85?^_0
+R11
+31
+R15
+R16
+!s100 RT:1ejKh58bXFMoB?Ch;z1
+!i10b 1
+!s108 1672705317.596483
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd|
+Pretardos_regdes_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_RegDes_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_RegDes_pkg.vhd
+l0
+L9
+Vo9KB=IOC;BXch]EnERG9i3
+R11
+31
+R15
+R16
+!s100 4fC79Ahc9XT8IiegUZW3Q1
+!i10b 1
+!s108 1672705317.632529
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_RegDes_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/tipos_constantes_pkg/retardos_RegDes_pkg.vhd|
+Erfmtd
+R1
+R211
+R54
+R5
+R3
+R4
+R6
+R7
+R8
+Z404 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/RFMTD.vhd
+Z405 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/RFMTD.vhd
+l0
+L15
+V[zZYCoe7KLe1>[[H>LCVY1
+R11
+31
+Z406 !s108 1672705319.811567
+Z407 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/RFMTD.vhd|
+Z408 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/FMTD/CODIGO/RFMTD.vhd|
+R15
+R16
+!s100 6@gW5jANz:0ldMCcT<f_l0
+!i10b 1
+Aestructural
+R211
+R54
+R5
+R3
+R4
+R6
+R7
+DEx4 work 5 rfmtd 0 22 [zZYCoe7KLe1>[[H>LCVY1
+l25
+L22
+VaSk[bE1E9e[>N3gcmS60l1
+R11
+31
+R406
+R407
+R408
+R15
+R16
+!s100 ZI4@zcjUkn<W0MAJbXIAU0
+!i10b 1
+Erfmte_c
+R1
+R211
+R22
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+R8
+Z409 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/RFMTE_C.vhd
+Z410 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/RFMTE_C.vhd
+l0
+L16
+VRZzoNdLLRT6fD]YIGe[e;0
+R11
+31
+Z411 !s108 1672705321.200388
+Z412 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/RFMTE_C.vhd|
+Z413 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/MD/COMPONENTES/FMTE/ENSAMBLADO_FMTE/CODIGO/RFMTE_C.vhd|
+R15
+R16
+!s100 9U8gVEDcHDYL=WAL>hfK10
+!i10b 1
+Aestructura
+R211
+R22
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+DEx4 work 7 rfmte_c 0 22 RZzoNdLLRT6fD]YIGe[e;0
+l30
+L25
+V@L7:QOcIFT:::f6?jnn5h3
+R11
+31
+R411
+R412
+R413
+R15
+R16
+!s100 Z]TNmdHUO47BQh_YVcbBl2
+!i10b 1
+Erfmtl
+R1
+R211
+R22
+R24
+R3
+R4
+R23
+R5
+R6
+R7
+R8
+Z414 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/RFMTL.vhd
+Z415 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/RFMTL.vhd
+l0
+L14
+V]KEQY5bg=XiX[Em2`nBRW1
+R11
+31
+Z416 !s108 1672705321.353665
+Z417 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/RFMTL.vhd|
+Z418 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/COMPONENTES/FMTL/ENSAMBLADO_FMTL/CODIGO/RFMTL.vhd|
+R15
+R16
+!s100 Z1Nd?JZ94ML::P>;F5^nZ2
+!i10b 1
+Aestructural
+R211
+R22
+R24
+R3
+R4
+R23
+R5
+R6
+R7
+DEx4 work 5 rfmtl 0 22 ]KEQY5bg=XiX[Em2`nBRW1
+l28
+L22
+ViYNQzjcIICM`_YW]>FKb:1
+R11
+31
+R416
+R417
+R418
+R15
+R16
+!s100 VV^]lLY_eP^n:e6FM@[;C2
+!i10b 1
+Erfmts
+R1
+R211
+R330
+R5
+R3
+R4
+R6
+R7
+R8
+Z419 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/RFMTS.vhd
+Z420 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/RFMTS.vhd
+l0
+L15
+V;jej=zc46]<@0:J2HG3G:0
+R11
+31
+Z421 !s108 1672705320.295867
+Z422 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/RFMTS.vhd|
+Z423 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/FMTS/CODIGO/RFMTS.vhd|
+R15
+R16
+!s100 WWT04VSPgmIl:94g^dGCU2
+!i10b 1
+Aestructural
+R211
+R330
+R5
+R3
+R4
+R6
+R7
+DEx4 work 5 rfmts 0 22 ;jej=zc46]<@0:J2HG3G:0
+l25
+L22
+VLFOMjT3@iT`NZR7mhPYkb3
+R11
+31
+R421
+R422
+R423
+R15
+R16
+!s100 NO]i^]n1OW^>nb@ZU_WJz3
+!i10b 1
+Primpri_traza_c_pkg
+R70
+R77
+R179
+R23
+R24
+R36
+R3
+R4
+R280
+R71
+R5
+R6
+R7
+R1
+R8
+Z424 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../PROC_SEG_CORTOS/UTILIDADES_pkg/imprimir_traza_pkg/Rimpri_traza_C_pkg.vhd
+Z425 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../PROC_SEG_CORTOS/UTILIDADES_pkg/imprimir_traza_pkg/Rimpri_traza_C_pkg.vhd
+l0
+L20
+VKY[f;G4>NCb1HC<h5aU;X1
+R11
+31
+b1
+Z426 !s108 1672705321.629120
+Z427 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../PROC_SEG_CORTOS/UTILIDADES_pkg/imprimir_traza_pkg/Rimpri_traza_C_pkg.vhd|
+Z428 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/QUARTUS/../../../PROC_SEG_CORTOS/UTILIDADES_pkg/imprimir_traza_pkg/Rimpri_traza_C_pkg.vhd|
+R15
+R16
+!s100 Se;JSBEmX=8`A27g=4lEV1
+!i10b 1
+Bbody
+R279
+R70
+R77
+R179
+R23
+R24
+R36
+R3
+R4
+R280
+R71
+R5
+R6
+R7
+l0
+L30
+VNWf0DIm]iHgn_ZOU=]nE>2
+R11
+31
+R426
+R427
+R428
+R15
+R16
+nbody
+!s100 nYhlz;Ki28ijIPXo8PzId3
+!i10b 1
+Priscv32_coop_funct_pkg
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd
+l0
+L9
+V;5Xo@eC]DBCLkHZ^SI_gG3
+R11
+31
+R15
+R16
+!s100 jD0FZXWb2O>Y@61fTR4?R1
+!i10b 1
+!s108 1672705317.580088
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd|
+Ermd
+R1
+R71
+R191
+R192
+R204
+R35
+R4
+R23
+R24
+R5
+R6
+R7
+R8
+Z429 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/memoria_ram/CODIGO/RMD.vhd
+Z430 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/memoria_ram/CODIGO/RMD.vhd
+l0
+L19
+V307aDAQdzAOMzkIP8`o<51
+R11
+31
+Z431 !s108 1672705321.306392
+Z432 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/memoria_ram/CODIGO/RMD.vhd|
+Z433 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MD/memoria_ram/CODIGO/RMD.vhd|
+R15
+R16
+!s100 mbD]6]Ck<lX=5]=jMU3c83
+!i10b 1
+Artl
+R71
+R191
+R192
+R204
+R35
+R4
+R23
+R24
+R5
+R6
+R7
+DEx4 work 3 rmd 0 22 307aDAQdzAOMzkIP8`o<51
+l36
+L27
+V_3jbT2579bF?=OS?6DH>]3
+R11
+31
+R431
+R432
+R433
+R15
+R16
+!s100 QRAS6Qob=CoM=e8@[Q;Dk3
+!i10b 1
+Ermes
+R1
+R54
+R211
+R3
+R4
+R35
+R5
+R6
+R7
+R8
+Z434 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmES.vhd
+Z435 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmES.vhd
+l0
+L16
+V^?j[Ad[zzc=Y^USdgLlLb2
+R11
+31
+Z436 !s108 1672705320.159851
+Z437 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmES.vhd|
+Z438 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmES.vhd|
+R15
+R16
+!s100 dBl`F:NXGL5^Q@8Ae`aU81
+!i10b 1
+Aestructural
+R54
+R211
+R3
+R4
+R35
+R5
+R6
+R7
+DEx4 work 4 rmes 0 22 ^?j[Ad[zzc=Y^USdgLlLb2
+l30
+L25
+Vf?kjF=`J0K79T5XRa:PA10
+R11
+31
+R436
+R437
+R438
+R15
+R16
+!s100 9PQnmR]F[=9IUcXkJT4B_0
+!i10b 1
+Ermi
+R1
+R71
+R191
+R192
+R198
+R35
+R23
+R179
+R4
+R5
+R6
+R7
+R8
+Z439 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/memoria_MI/CODIGO/RMI.vhd
+Z440 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/memoria_MI/CODIGO/RMI.vhd
+l0
+L19
+VnOzC9kE2K3PBK<@IaBZJE1
+R11
+31
+Z441 !s108 1672705321.119878
+Z442 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/memoria_MI/CODIGO/RMI.vhd|
+Z443 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/MI/memoria_MI/CODIGO/RMI.vhd|
+R15
+R16
+!s100 kGzTzK]VTE4SXUM>WX5az0
+!i10b 1
+Artl
+R71
+R191
+R192
+R198
+R35
+R23
+R179
+R4
+R5
+R6
+R7
+DEx4 work 3 rmi 0 22 nOzC9kE2K3PBK<@IaBZJE1
+l34
+L26
+V`l^h92Q6J8CSIOF8W<b[Q2
+R11
+31
+R441
+R442
+R443
+R15
+R16
+!s100 gHGkfJMAFXDE]zbzCjddo1
+!i10b 1
+Erml1_c
+R1
+R211
+R54
+R3
+R4
+R5
+R6
+R7
+R8
+Z444 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL1_C.vhd
+Z445 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL1_C.vhd
+l0
+L15
+Vo>T`kFk9o`Z`Y?lTNnG031
+R11
+31
+Z446 !s108 1672705320.012418
+Z447 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL1_C.vhd|
+Z448 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL1_C.vhd|
+R15
+R16
+!s100 `j_K9OG_[B`:ad3EYSRc@1
+!i10b 1
+Aestructural
+R211
+R54
+R3
+R4
+R5
+R6
+R7
+DEx4 work 6 rml1_c 0 22 o>T`kFk9o`Z`Y?lTNnG031
+l27
+L23
+VV`VhIQW9DR<9X7cd?gUb71
+R11
+31
+R446
+R447
+R448
+R15
+R16
+!s100 ^]T3OhY0YDc=a7d`HDhUz0
+!i10b 1
+Erml2_c
+R1
+R211
+R54
+R3
+R4
+R5
+R6
+R7
+R8
+Z449 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL2_C.vhd
+Z450 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL2_C.vhd
+l0
+L15
+Vk2g[oc@<cWD=_D<4mcElo2
+R11
+31
+Z451 !s108 1672705320.053730
+Z452 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL2_C.vhd|
+Z453 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_CORTOS/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/MULTIPLEXORES/CODIGO/RmL2_C.vhd|
+R15
+R16
+!s100 gzeK8;^mAHV2b7a=SISkQ2
+!i10b 1
+Aestructural
+R211
+R54
+R3
+R4
+R5
+R6
+R7
+DEx4 work 6 rml2_c 0 22 k2g[oc@<cWD=_D<4mcElo2
+l27
+L23
+VK5LIm_jUB@I9:OAa6kEXE1
+R11
+31
+R451
+R452
+R453
+R15
+R16
+!s100 oiIX9ZEcoaeAkVHgf7B732
+!i10b 1
+Ermuxdirec_c_modsecu
+R1
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+R8
+Z454 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmuxdirec_C_ModSecu.vhd
+Z455 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmuxdirec_C_ModSecu.vhd
+l0
+L10
+VOJ@_kUKk00;5F7:0^]2fE2
+R11
+31
+Z456 !s108 1672705320.377967
+Z457 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmuxdirec_C_ModSecu.vhd|
+Z458 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmuxdirec_C_ModSecu.vhd|
+R15
+R16
+!s100 GoePE2X^;NfU^TK5U937N0
+!i10b 1
+Acomportamiento
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+DEx4 work 19 rmuxdirec_c_modsecu 0 22 OJ@_kUKk00;5F7:0^]2fE2
+l22
+L18
+VXZ`F7YIIMl;me@eg1>VLR2
+R11
+31
+R456
+R457
+R458
+R15
+R16
+!s100 ;E?6@n@4AnRa`9j;Xca@h3
+!i10b 1
+Ermuxmsic
+R1
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+R8
+Z459 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/RmuxmSIC.vhd
+Z460 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/RmuxmSIC.vhd
+l0
+L16
+Ve@61hc5EHBF7bl45VG?Cj2
+R11
+31
+Z461 !s108 1672705320.448726
+Z462 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/RmuxmSIC.vhd|
+Z463 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/RmuxmSIC.vhd|
+R15
+R16
+!s100 4?aoJ916SbJ;nCKiEA^Z41
+!i10b 1
+Aestructural
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 rmuxmsic 0 22 e@61hc5EHBF7bl45VG?Cj2
+l27
+L24
+VWlWST>MIDPLl[iGZ3eK@d2
+R11
+31
+R461
+R462
+R463
+R15
+R16
+!s100 ICd[KY?^RzMac8Aj>@4SC1
+!i10b 1
+Ermxsecseg
+R1
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+R8
+Z464 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmxsecseg.vhd
+Z465 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmxsecseg.vhd
+l0
+L16
+Vcg7e<DzRBhdAA?Snb[1]70
+R11
+31
+Z466 !s108 1672705320.478185
+Z467 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmxsecseg.vhd|
+Z468 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/MULTIPLEXORES/CODIGO/Rmxsecseg.vhd|
+R15
+R16
+!s100 8_mkH3V:cXYbI[7C@f_d_0
+!i10b 1
+Aestructural
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 rmxsecseg 0 22 cg7e<DzRBhdAA?Snb[1]70
+l27
+L24
+VbVcgL]6Z5P@c_`mob>:`f1
+R11
+31
+R466
+R467
+R468
+R15
+R16
+!s100 6ARQod[ohg98=57?U_>M_2
+!i10b 1
+Erproc_md_mi_c_modsecu
+R1
+R117
+R118
+Z469 DPx4 work 37 rcomponentes_proc_md_mi_c_modsecu_pkg 0 22 R9097mU[K_gkCO`ShgXEQ1
+Z470 DPx4 work 29 rcomponentes_proc_md_mi_c_pkg 0 22 HcjPlBD2a:31A]L4n44173
+R179
+Z471 DPx4 work 27 rcomponentes_proc_md_mi_pkg 0 22 oFz83R`5E394`>VQR0lW^1
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+R8
+Z472 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/CODIGO/Rproc_MD_MI_C_ModSecu.vhd
+Z473 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/CODIGO/Rproc_MD_MI_C_ModSecu.vhd
+l0
+L20
+VTXzH=b;RE<lGh9[IP>YF`3
+R11
+31
+Z474 !s108 1672705321.007300
+Z475 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/CODIGO/Rproc_MD_MI_C_ModSecu.vhd|
+Z476 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/ENSAMBLADO/CODIGO/Rproc_MD_MI_C_ModSecu.vhd|
+R15
+R16
+!s100 <k09Q[egPdBN>J[EaV1KJ1
+!i10b 1
+Aestructural
+R117
+R118
+R469
+R470
+R179
+R471
+R23
+R24
+R3
+R4
+R5
+R6
+R7
+DEx4 work 21 rproc_md_mi_c_modsecu 0 22 TXzH=b;RE<lGh9[IP>YF`3
+l40
+L25
+VA99LO0cOX7^^iTRPEdDn@3
+R11
+31
+R474
+R475
+R476
+R15
+R16
+!s100 9YKQ^i54]lR1K9kabYRYd2
+!i10b 1
+Erregcp
+R1
+R35
+R4
+R5
+R6
+R7
+R8
+Z477 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CP/CODIGO/RregCP.vhd
+Z478 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CP/CODIGO/RregCP.vhd
+l0
+L13
+VF1U<>^E3kGR5eSo^93DT<3
+R11
+31
+Z479 !s108 1672705318.368899
+Z480 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CP/CODIGO/RregCP.vhd|
+Z481 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/PROCESADOR/CP/CODIGO/RregCP.vhd|
+R15
+R16
+!s100 Va_>[lKO^CCDml8BeUb3n3
+!i10b 1
+Acomportamiento
+R35
+R4
+R5
+R6
+R7
+DEx4 work 6 rregcp 0 22 F1U<>^E3kGR5eSo^93DT<3
+l20
+L19
+VD2<SZ?@f^5OlYWAH_@P3L1
+R11
+31
+R479
+R480
+R481
+R15
+R16
+!s100 21=PfzMO1Sf4IZ3^Y?D8g3
+!i10b 1
+Ersum_secu_index
+R1
+R211
+R327
+R3
+R4
+R5
+R6
+R7
+R8
+Z482 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_index.vhd
+Z483 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_index.vhd
+l0
+L15
+VE^n00l2bcgG`A=2m6F[ZD1
+R11
+31
+Z484 !s108 1672705320.350025
+Z485 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_index.vhd|
+Z486 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_index.vhd|
+R15
+R16
+!s100 ;diafi[2`dgBRJkW<15980
+!i10b 1
+Aestructural
+R211
+R327
+R3
+R4
+R5
+R6
+R7
+DEx4 work 15 rsum_secu_index 0 22 E^n00l2bcgG`A=2m6F[ZD1
+l24
+L21
+Vbe7;Y1<o@T]o[@>:>zXIN2
+R11
+31
+R484
+R485
+R486
+R15
+R16
+!s100 ZXN[HaBLQJYBlYP=7UZKA0
+!i10b 1
+Ersum_secu_rel
+R1
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+R8
+Z487 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_rel.vhd
+Z488 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_rel.vhd
+l0
+L15
+V?bd`igiRNizR7?LmnT<`Y1
+R11
+31
+Z489 !s108 1672705320.321347
+Z490 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_rel.vhd|
+Z491 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/Rsum_secu_rel.vhd|
+R15
+R16
+!s100 Ez2JIFHF<`KfQ1iLmERB_2
+!i10b 1
+Aestructural
+R211
+R330
+R3
+R4
+R5
+R6
+R7
+DEx4 work 13 rsum_secu_rel 0 22 ?bd`igiRNizR7?LmnT<`Y1
+l24
+L21
+VPYll7Ii[0PTPf[dzgO0Ra1
+R11
+31
+R489
+R490
+R491
+R15
+R16
+!s100 WO_G^IF_WBmHazAkOR6ZL0
+!i10b 1
+Esel_byte
+Z492 w1539961969
+R4
+R23
+R24
+R3
+R5
+R6
+R7
+R8
+Z493 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/SELEC_BYTE/CODIGO/sel_byte.vhd
+Z494 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/SELEC_BYTE/CODIGO/sel_byte.vhd
+l0
+L13
+VjF>kiZhVZFDSNj^99^E`Q2
+R11
+31
+Z495 !s108 1672705320.517733
+Z496 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/SELEC_BYTE/CODIGO/sel_byte.vhd|
+Z497 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/COMPONENTES/FMTE/COMPONENTES/SELEC_BYTE/CODIGO/sel_byte.vhd|
+R15
+R16
+!s100 1UbE`KFHO7bgUbm9Q=ZWS0
+!i10b 1
+Aestructura
+R4
+R23
+R24
+R3
+R5
+R6
+R7
+DEx4 work 8 sel_byte 0 22 jF>kiZhVZFDSNj^99^E`Q2
+l24
+L19
+VWcezjAD^nBX_iL4BPOSXk3
+R11
+31
+R495
+R496
+R497
+R15
+R16
+!s100 zAeYGEX=[QEDNBE6WFUef1
+!i10b 1
+Esenya_cntlrd
+R1
+R211
+R116
+R5
+R3
+R4
+R6
+R7
+R8
+Z498 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRD.vhd
+Z499 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRD.vhd
+l0
+L15
+V6VOQHY7k_Ag:=iNaM3Xo;0
+R11
+31
+Z500 !s108 1672705320.759800
+Z501 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRD.vhd|
+Z502 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRD.vhd|
+R15
+R16
+!s100 OzPiOizBn7ZWS168b1Y3J0
+!i10b 1
+Aestructural
+R211
+R116
+R5
+R3
+R4
+R6
+R7
+DEx4 work 12 senya_cntlrd 0 22 6VOQHY7k_Ag:=iNaM3Xo;0
+l28
+L24
+VPEWk;zYfFj6EAg>QL]ZzL0
+R11
+31
+R500
+R501
+R502
+R15
+R16
+!s100 X5fSKgQbml1E;KlCnbOz;2
+!i10b 1
+Esenya_cntlrs
+R1
+R211
+R116
+R5
+R3
+R4
+R6
+R7
+R8
+Z503 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRS.vhd
+Z504 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRS.vhd
+l0
+L14
+Vf8zL^]a5`a>hnU1ikJMKJ2
+R11
+31
+Z505 !s108 1672705320.915292
+Z506 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRS.vhd|
+Z507 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/SENYALES_CNTL/CODIGO/senya_cntlRS.vhd|
+R15
+R16
+!s100 <57i`Ta9__59JRH42a]]50
+!i10b 1
+Aestructural
+R211
+R116
+R5
+R3
+R4
+R6
+R7
+DEx4 work 12 senya_cntlrs 0 22 f8zL^]a5`a>hnU1ikJMKJ2
+l22
+L21
+VbGNhR?DMG7kP@a__dbVi:3
+R11
+31
+R505
+R506
+R507
+R15
+R16
+!s100 _Lh4inkZofOT]:V40]ncL3
+!i10b 1
+Esum_index
+R1
+R35
+R3
+R4
+R5
+R6
+R7
+R8
+Z508 8/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sum_index.vhd
+Z509 F/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sum_index.vhd
+l0
+L14
+VQBZP_DdSbc`CJ>TVeL^931
+R11
+31
+Z510 !s108 1672705319.059634
+Z511 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sum_index.vhd|
+Z512 !s107 /home/victormena/Documentos/AC2/LAB6/PROC_SEG_ModSecu/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sum_index.vhd|
+R15
+R16
+!s100 8PYYY5kRDVhgMGVAOB?5G3
+!i10b 1
+Acomportamiento
+R35
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 sum_index 0 22 QBZP_DdSbc`CJ>TVeL^931
+l21
+L19
+Vg:TM^4g?C]UfLEg8Un;`o2
+R11
+31
+R510
+R511
+R512
+R15
+R16
+!s100 T;8^QGES8DH1zKAIG0k_H0
+!i10b 1
+Esumador
+R1
+R35
+R4
+R5
+R6
+R7
+R8
+Z513 8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sumador.vhd
+Z514 F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sumador.vhd
+l0
+L13
+V3Ce@BEW86VAd1U9n^;3Jb1
+R11
+31
+Z515 !s108 1672705318.983062
+Z516 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sumador.vhd|
+Z517 !s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/PROCESADOR/CAMINO_DATOS/USecuen/COMPONENTES/SUMADOR/CODIGO/sumador.vhd|
+R15
+R16
+!s100 c3bmS2U2M@3Q3Kemjm?[Y3
+!i10b 1
+Acomportamiento
+R35
+R4
+R5
+R6
+R7
+DEx4 work 7 sumador 0 22 3Ce@BEW86VAd1U9n^;3Jb1
+l19
+L18
+VY;>1^HBfGI5m0^>L`EgFZ3
+R11
+31
+R515
+R516
+R517
+R15
+R16
+!s100 CRRfO7_U@2zUeW581LV7W0
+!i10b 1
+Ptipos_constan_memoria_i_pkg
+R4
+R23
+R6
+R7
+w1539962158
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/tipos_ctes_MI_pkg/tipos_constan_memoria_I_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/tipos_ctes_MI_pkg/tipos_constan_memoria_I_pkg.vhd
+l0
+L12
+VZG`Wgh8_ZW<_:i1_RMdJ^0
+R11
+31
+R15
+R16
+!s100 gSNAQWOc;5[7US`Wi7D_31
+!i10b 1
+!s108 1672705317.729155
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/tipos_ctes_MI_pkg/tipos_constan_memoria_I_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MI/tipos_ctes_MI_pkg/tipos_constan_memoria_I_pkg.vhd|
+Ptipos_constan_memoria_pkg
+R4
+R23
+R5
+R6
+R7
+R1
+R8
+8/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/tipos_ctes_MD_pkg/tipos_constan_memoria_pkg.vhd
+F/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/tipos_ctes_MD_pkg/tipos_constan_memoria_pkg.vhd
+l0
+L13
+Vg7hGX<m?PiFf9Z0C2zMPJ1
+R11
+31
+R15
+R16
+!s100 5hkKL2bg8BOSMNMZ0UKAL0
+!i10b 1
+!s108 1672705318.111305
+!s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/tipos_ctes_MD_pkg/tipos_constan_memoria_pkg.vhd|
+!s107 /home/victormena/Documentos/AC2/LAB4/PROC_SERIE/MD/tipos_ctes_MD_pkg/tipos_constan_memoria_pkg.vhd|
+Evalreg
+R1
+R4
+R36
+R3
+R5
+R6
+R7
+R8
+Z518 8/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/VALIDACION/CODIGO/valreg.vhd
+Z519 F/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/VALIDACION/CODIGO/valreg.vhd
+l0
+L14
+VJ>M@@IlM^T;1W7jQDP4FJ3
+R11
+31
+Z520 !s108 1672705319.202454
+Z521 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/VALIDACION/CODIGO/valreg.vhd|
+Z522 !s107 /home/victormena/Documentos/AC2/LAB5/PROC_SEGMENTADO/CONTROL_SEGMENTACION/COMPONENTES/VALIDACION/CODIGO/valreg.vhd|
+R15
+R16
+!s100 50NzEOB^jJ3mLA^aljLE?1
+!i10b 1
+Acompor
+R4
+R36
+R3
+R5
+R6
+R7
+DEx4 work 6 valreg 0 22 J>M@@IlM^T;1W7jQDP4FJ3
+l21
+L19
+V13<S^kOc68dInGb^aQoBi1
+R11
+31
+R520
+R521
+R522
+R15
+R16
+!s100 Hk[2Q=15J9[TB9B19OdfG3
+!i10b 1

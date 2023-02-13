@@ -1,0 +1,165 @@
+# do s1bit_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {/home/victormena/Documentos/AC2/LAB1/FUNCIONAL/CODIGO/s1bit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity s1bit
+# -- Compiling architecture flujodatos of s1bit
+# 
+vsim rtl_work.s1bit(flujodatos)
+# vsim rtl_work.s1bit(flujodatos) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading rtl_work.s1bit(flujodatos)
+add wave -position end  sim:/s1bit/x
+add wave -position end  sim:/s1bit/y
+add wave -position end  sim:/s1bit/cen
+add wave -position end  sim:/s1bit/s
+add wave -position end  sim:/s1bit/csal
+add wave -position end  sim:/s1bit/xorxy
+add wave -position end  sim:/s1bit/andxy
+add wave -position end  sim:/s1bit/andxorxyz
+add list  \
+sim:/s1bit/x \
+sim:/s1bit/y \
+sim:/s1bit/cen \
+sim:/s1bit/s \
+sim:/s1bit/csal \
+sim:/s1bit/xorxy \
+sim:/s1bit/andxy \
+sim:/s1bit/andxorxyz
+do estimulos.do
+write list -window .main_pane.list.interior.cs.body /home/victormena/Documentos/AC2/LAB1/FUNCIONAL/RESULTADOS/list.lst
+restart
+do prueba.do
+# Cannot open macro file: prueba.do
+do prueba.do
+# Cannot open macro file: prueba.do
+do estimulos.do
+do prueba.do
+# Cannot open macro file: prueba.do
+do prueba.do
+# Cannot open macro file: prueba.do
+do estimulo.do
+# Cannot open macro file: estimulo.do
+force s1bit/x U 0 ns, 0 50 ns, 0 100 ns
+
+force s1bit/y U 0 ns, 0 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 0 100 ns
+
+run -all
+force s1bit/x U 0 ns, 0 50 ns, 0 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 1 100 ns
+
+run -all
+restart
+force s1bit/x U 0 ns, 0 50 ns, 0 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 1 100 ns
+
+run -all
+restart
+force s1bit/x U 0 ns, 0 50 ns, 0 100 ns
+
+force s1bit/y U 0 ns, 0 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 1 100 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 0 50 ns, 0 60 ns
+
+force s1bit/y U 0 ns, 0 50 ns, 1 60 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 0 60 ns
+
+run -all
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 60 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 60 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 0 60 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 60 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 60 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 0 60 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 0 100 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 0 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 0 100 ns
+
+run -all
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 1 100 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 0 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 1 100 ns
+
+run -all
+restart
+force s1bit/x U 0 ns, 0 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 0 50 ns, 0 100 ns
+
+force s1bit/cen U 0 ns, 1 50 ns, 1 100 ns
+
+run -all
+
+restart
+force s1bit/x U 0 ns, 1 50 ns, 1 100 ns
+
+force s1bit/y U 0 ns, 1 50 ns, 0 100 ns
+
+force s1bit/cen U 0 ns, 0 50 ns, 0 100 ns
+
+run -all
+

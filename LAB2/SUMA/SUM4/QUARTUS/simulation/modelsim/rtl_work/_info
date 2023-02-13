@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/simulation/modelsim
+Eprueba_s4bits
+Z1 w1665002203
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/simulation/modelsim
+Z5 8/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd
+Z6 F/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd
+l0
+L10
+VGJ;8?c3hZDFK]RPF<I@>k1
+!s100 [CIS]bF297C_K5<L]Oz1z2
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1665002218.354402
+Z9 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd|
+Z10 !s107 /home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Aprueba
+R2
+R3
+DEx4 work 13 prueba_s4bits 0 22 GJ;8?c3hZDFK]RPF<I@>k1
+l30
+L14
+V^>h35`@mka4Sl]Z1d^K5H3
+!s100 _BJX3coB=I>YFhBlHNmRj3
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Es1bit
+Z13 w1663830700
+R2
+R3
+R4
+Z14 8/home/victormena/Documentos/AC2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+Z15 F/home/victormena/Documentos/AC2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+l0
+L9
+V2]IdO14M1z9;A@[@g5L=o1
+R7
+31
+Z16 !s108 1665002218.318113
+Z17 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+Z18 !s107 /home/victormena/Documentos/AC2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+R11
+R12
+!s100 ]DL?I]n1kc<Kz2[Vi2bS]0
+!i10b 1
+Aflujodatos
+R2
+R3
+DEx4 work 5 s1bit 0 22 2]IdO14M1z9;A@[@g5L=o1
+l24
+L20
+VP[M]80W1c_[32C8Ck9U>m3
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 9C6;<]@ERVgdOhGH^z84>0
+!i10b 1
+Es4bits
+Z19 w1664705890
+R2
+R3
+R4
+Z20 8/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+Z21 F/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+l0
+L13
+V_d0CLzdC;S@UzYVHUNzoD1
+R7
+31
+Z22 !s108 1665002218.336150
+Z23 !s90 -reportprogress|300|-93|-work|work|/home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+Z24 !s107 /home/victormena/Documentos/AC2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+R11
+R12
+!s100 @Cc=49oo21VPKJ0O^`jiX3
+!i10b 1
+Aestructural
+R2
+R3
+DEx4 work 6 s4bits 0 22 _d0CLzdC;S@UzYVHUNzoD1
+l31
+L24
+VCJM74F6XRRF;UB=fdOC`20
+R7
+31
+R22
+R23
+R24
+R11
+R12
+!s100 @TX4cbg@S_MIN@cR_hW>C2
+!i10b 1

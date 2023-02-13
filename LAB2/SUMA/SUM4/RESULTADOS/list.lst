@@ -1,0 +1,15 @@
+         ps       /s4bits/A  /s4bits/csal                      
+          delta        /s4bits/B   /s4bits/c2                  
+                       /s4bits/cen   /s4bits/c3                
+                            /s4bits/SUM  /s4bits/c4            
+                                 /s4bits/c1                    
+          0  +0        1010 0100 1 UUUU U U U U   U 
+      25000  +0        1010 0100 1 UUUU U 0 U U   U 
+      30000  +0        1010 0100 1 UUU1 U 0 U U   U 
+      40000  +0        1010 0100 1 UU11 U 0 U U   U 
+      50000  +0        1010 0100 1 UU11 U 0 0 U   U 
+      65000  +0        1010 0100 1 U111 U 0 0 U   U 
+      75000  +0        1010 0100 1 U111 U 0 0 0   U 
+      90000  +0        1010 0100 1 1111 U 0 0 0   U 
+     100000  +0        1010 0100 1 1111 U 0 0 0   0 
+     100000  +1        1010 0100 1 1111 0 0 0 0   0 

@@ -1,0 +1,43 @@
+# do snbits_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {/home/victormena/Documentos/AC2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity s1bit
+# -- Compiling architecture flujodatos of s1bit
+# vcom -93 -work work {/home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/CODIGO/snbits.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity snbits
+# -- Compiling architecture estructural of snbits
+# 
+# vcom -93 -work work {/home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package MATH_REAL
+# -- Compiling entity prueba_snbits_reloj
+# -- Compiling architecture prueba of prueba_snbits_reloj
+# ** Error: /home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd(115): Illegal type conversion from std.STANDARD.TIME to ieee.NUMERIC_STD.UNSIGNED (non-numeric to array).
+# ** Error: /home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd(120): Illegal type conversion from std.STANDARD.TIME to ieee.NUMERIC_STD.UNSIGNED (non-numeric to array).
+# ** Error: /home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd(137): VHDL Compiler exiting
+# ** Error: /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/vcom failed.
+# Error in macro ./snbits_run_msim_rtl_vhdl.do line 11
+# /home/victormena/altera/13.0sp1/modelsim_ase/linuxaloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {/home/victormena/Documentos/AC2/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd}"

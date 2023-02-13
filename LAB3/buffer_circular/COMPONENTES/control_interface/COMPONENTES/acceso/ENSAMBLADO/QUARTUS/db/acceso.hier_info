@@ -1,0 +1,174 @@
+|acceso
+reloj => puntero:pcola.reloj
+reloj => puntero:pcabeza.reloj
+pcero => puntero:pcola.pcero
+pcero => puntero:pcabeza.pcero
+escritura => puntero:pcola.condicion
+escritura => PE.DATAIN
+lectura => puntero:pcabeza.condicion
+PE <= escritura.DB_MAX_OUTPUT_PORT_TYPE
+cabeza[0] <= puntero:pcabeza.punt[0]
+cabeza[1] <= puntero:pcabeza.punt[1]
+cabeza[2] <= puntero:pcabeza.punt[2]
+cola[0] <= puntero:pcola.punt[0]
+cola[1] <= puntero:pcola.punt[1]
+cola[2] <= puntero:pcola.punt[2]
+colaincr[0] <= puntero:pcola.puntincr[0]
+colaincr[1] <= puntero:pcola.puntincr[1]
+colaincr[2] <= puntero:pcola.puntincr[2]
+
+
+|acceso|puntero:pcola
+reloj => reg:estadopuntero.reloj
+pcero => prxval:prxvalorentpunt.pcero
+condicion => prxval:prxvalorentpunt.sel
+puntincr[0] <= cntbin:contadorbinario.sal[0]
+puntincr[1] <= cntbin:contadorbinario.sal[1]
+puntincr[2] <= cntbin:contadorbinario.sal[2]
+punt[0] <= reg:estadopuntero.Q[0]
+punt[1] <= reg:estadopuntero.Q[1]
+punt[2] <= reg:estadopuntero.Q[2]
+
+
+|acceso|puntero:pcola|cntbin:contadorbinario
+ent[0] => Add0.IN6
+ent[1] => Add0.IN5
+ent[2] => Add0.IN4
+sal[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcola|prxval:prxvalorentpunt
+e0[0] => mux:muxent.e0[0]
+e0[1] => mux:muxent.e0[1]
+e0[2] => mux:muxent.e0[2]
+e1[0] => mux:muxent.e1[0]
+e1[1] => mux:muxent.e1[1]
+e1[2] => mux:muxent.e1[2]
+pcero => mux:muxpcero.sel
+sel => mux:muxent.sel
+sal[0] <= mux:muxpcero.sal[0]
+sal[1] <= mux:muxpcero.sal[1]
+sal[2] <= mux:muxpcero.sal[2]
+
+
+|acceso|puntero:pcola|prxval:prxvalorentpunt|mux:muxent
+e0[0] => sal.DATAB
+e0[1] => sal.DATAB
+e0[2] => sal.DATAB
+e1[0] => sal.DATAA
+e1[1] => sal.DATAA
+e1[2] => sal.DATAA
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sal[0] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcola|prxval:prxvalorentpunt|mux:muxpcero
+e0[0] => sal.DATAB
+e0[1] => sal.DATAB
+e0[2] => sal.DATAB
+e1[0] => sal.DATAA
+e1[1] => sal.DATAA
+e1[2] => sal.DATAA
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sal[0] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcola|reg:estadopuntero
+reloj => Q[0]~reg0.CLK
+reloj => Q[1]~reg0.CLK
+reloj => Q[2]~reg0.CLK
+D[0] => Q[0]~reg0.DATAIN
+D[1] => Q[1]~reg0.DATAIN
+D[2] => Q[2]~reg0.DATAIN
+Q[0] <= Q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= Q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= Q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcabeza
+reloj => reg:estadopuntero.reloj
+pcero => prxval:prxvalorentpunt.pcero
+condicion => prxval:prxvalorentpunt.sel
+puntincr[0] <= cntbin:contadorbinario.sal[0]
+puntincr[1] <= cntbin:contadorbinario.sal[1]
+puntincr[2] <= cntbin:contadorbinario.sal[2]
+punt[0] <= reg:estadopuntero.Q[0]
+punt[1] <= reg:estadopuntero.Q[1]
+punt[2] <= reg:estadopuntero.Q[2]
+
+
+|acceso|puntero:pcabeza|cntbin:contadorbinario
+ent[0] => Add0.IN6
+ent[1] => Add0.IN5
+ent[2] => Add0.IN4
+sal[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcabeza|prxval:prxvalorentpunt
+e0[0] => mux:muxent.e0[0]
+e0[1] => mux:muxent.e0[1]
+e0[2] => mux:muxent.e0[2]
+e1[0] => mux:muxent.e1[0]
+e1[1] => mux:muxent.e1[1]
+e1[2] => mux:muxent.e1[2]
+pcero => mux:muxpcero.sel
+sel => mux:muxent.sel
+sal[0] <= mux:muxpcero.sal[0]
+sal[1] <= mux:muxpcero.sal[1]
+sal[2] <= mux:muxpcero.sal[2]
+
+
+|acceso|puntero:pcabeza|prxval:prxvalorentpunt|mux:muxent
+e0[0] => sal.DATAB
+e0[1] => sal.DATAB
+e0[2] => sal.DATAB
+e1[0] => sal.DATAA
+e1[1] => sal.DATAA
+e1[2] => sal.DATAA
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sal[0] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcabeza|prxval:prxvalorentpunt|mux:muxpcero
+e0[0] => sal.DATAB
+e0[1] => sal.DATAB
+e0[2] => sal.DATAB
+e1[0] => sal.DATAA
+e1[1] => sal.DATAA
+e1[2] => sal.DATAA
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sel => sal.OUTPUTSELECT
+sal[0] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[1] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+sal[2] <= sal.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|acceso|puntero:pcabeza|reg:estadopuntero
+reloj => Q[0]~reg0.CLK
+reloj => Q[1]~reg0.CLK
+reloj => Q[2]~reg0.CLK
+D[0] => Q[0]~reg0.DATAIN
+D[1] => Q[1]~reg0.DATAIN
+D[2] => Q[2]~reg0.DATAIN
+Q[0] <= Q[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= Q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= Q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

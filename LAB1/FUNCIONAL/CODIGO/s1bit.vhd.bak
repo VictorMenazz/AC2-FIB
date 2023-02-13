@@ -1,0 +1,13 @@
+library ieee;														--Especificacion de la libreria que alberga las definiciones que deben utilizarse
+use ieee.std_logic_1164.all;
+entity s1bit is													--Decalaracion entity. Descripcion de la interface del modulo
+	port(	x,y:in	std_logic;
+			cen:in	std_logic;
+			s:out		std_logic;
+			csal:out	std_logic);
+end s1bit;
+architecture funcional of s1bit is							--Declaracion architecture. Descripcion del comportamiento del circuito
+begin
+	s <= (x xor y) xor cen;
+	csal <= (x and y) or (x and cen) or (y and cen);
+end funcional;

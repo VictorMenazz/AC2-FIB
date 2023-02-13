@@ -1,0 +1,18 @@
+PROGRAMA: fact_recurs
+ Salida de comprobacion de la instruccion que hay en un ciclo en cada etapa
+
+Para cada ciclo, en dos filas se representan las etapas y cortocircuitos
+En la 1ª fila se representan los cortos. En la 2ª fila el ciclo y las etapas
+y los riesgos de datos y secuenciamiento
+
+ Descripción de las etapas DL, ALU, M, FMTL y ES
+junto con la descripción de cortocircuitos fuente y destino
+                              DESTINOS de CORTO:   C4L2    C2L2
+                                                    C3L2    C1L2
+                                                      C4L1    C2L1
+                                                       C3L1    C1L1
+                               FUENTES de CORTO:                  C1    C2 C3  C4
+                                      Acrónimos:   0 / 1    0 / 1  1     2  3   4
+                                                                                         RIESGOS
+ciclo  CP        BUS          DL                 | DL    | ALU   | M   | FMTL| ES       R.DATOS R.SECU
+       direc.    Inst. hex.     ensamblador
